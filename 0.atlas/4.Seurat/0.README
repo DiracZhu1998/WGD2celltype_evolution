@@ -1,1 +1,7 @@
+# convert SAM processed object to Seurat with UMAP
+# pay attention, the processed expression matrix at SAM should be stored in data assay rather than counts
+for i in ../1.SAM/*h5ad; do echo nohup Rscript convert_scanpy_to_seurat.R -I $i -O $(basename $i _pr.h5ad).rds \& ;done
+# some gene names in meta.features is different from data for example gene PMZ_  => PMZ- due to Seurat requirements
+https://github.com/satijalab/seurat/issues/8187
 
+These Seurat objects were then pipe to iterative clustering and annotation steps.
