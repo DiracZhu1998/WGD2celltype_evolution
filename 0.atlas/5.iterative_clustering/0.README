@@ -1,1 +1,116 @@
+# for lamprey
+nohup Rscript Run.iterative_clustering.R /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/2.Seurat/Pmar.wb.rds NA Pmar > Pmar.nohup 2>&1 &
+nohup Rscript plot_iterative_clustering.R -I Pmar.RData -S Pmar/Pmar -M /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/Pmar/Pmar.major.wilcox.FDR001.txt -G Pmar/Pmar.gene_for_plotting -L count_mean -W mean >> Pmar.nohup 2>&1 &
+# parameters for lamprey
+de.param <- de_param(padj.th     = 0.05, 
+                     low.th      = 1, 
+                     q1.th       = 0.4, 
+                     q2.th       = NULL,
+                     q.diff.th   = 0.5,
+                     de.score.th = 100,
+                     min.cells = 100,
+                     min.genes = 5)
+
+iter.result <- iter_clust(norm.dat, 
+                          counts = norm.dat,
+                          dim.method = "pca",
+                          max.dim = 80,
+                          de.param = de.param,
+                          rm.eigen = rm.eigen,
+                          method = "louvain",
+                          prefix = label,
+                          verbose = TRUE,
+                          split.size = 500,
+                          #sampleSize = 20000,
+                          #max.cl.size = 500
+                          )
+
+
+
+# for mouse 
+nohup Rscript Run.iterative_clustering.R /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/2.Seurat/Mmus.wb.rds NA Mmus > Mmus.nohup 2>&1 &
+nohup Rscript plot_iterative_clustering.R -I Mmus.RData -S Mmus/Mmus -M /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/Mmus/Mmus.major.wilcox.FDR001.txt -G Mmus/Mmus.gene_for_plotting -L count_mean -W mean >> Mmus.nohup 2>&1 &
+# parameter for mouse
+de.param <- de_param(padj.th     = 0.05, 
+                     low.th      = 1, 
+                     q1.th       = 0.4, 
+                     q2.th       = NULL,
+                     q.diff.th   = 0.5,
+                     de.score.th = 100,
+                     min.cells = 100,
+                     min.genes = 5)
+
+iter.result <- iter_clust(norm.dat, 
+                          counts = norm.dat,
+                          dim.method = "pca",
+                          max.dim = 80,
+                          de.param = de.param,
+                          rm.eigen = rm.eigen,
+                          method = "louvain",
+                          prefix = label,
+                          verbose = TRUE,
+                          split.size = 500,
+                          #sampleSize = 20000,
+                          #max.cl.size = 500
+                          )
+
+# for lizard
+nohup Rscript Run.iterative_clustering.R /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/2.Seurat/Pvit.wb.rds NA Pvit > Pvit.nohup 2>&1 &
+
+nohup Rscript plot_iterative_clustering.R -I Pvit.RData -S Pvit/Pvit -M /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/Pvit/Pvit.major.wilcox.FDR001.txt -G Pvit/Pvit.gene_for_plotting -L count_mean -W mean >> Pvit.nohup 2>&1 &
+# parameters for lizard
+de.param <- de_param(padj.th     = 0.05, 
+                     low.th      = 1, 
+                     q1.th       = 0.4, 
+                     q2.th       = NULL,
+                     q.diff.th   = 0.5,
+                     de.score.th = 100,
+                     min.cells = 150,
+                     min.genes = 5)
+
+iter.result <- iter_clust(norm.dat, 
+                          counts = norm.dat,
+                          dim.method = "pca",
+                          max.dim = 80,
+                          de.param = de.param,
+                          rm.eigen = rm.eigen,
+                          method = "louvain",
+                          prefix = label,
+                          verbose = TRUE,
+                          split.size = 500,
+                          #sampleSize = 20000,
+                          #max.cl.size = 500
+                          )
+
+
+# for human
+nohup Rscript Run.iterative_clustering.R /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/2.Seurat/Hsap.wb.rds NA Hsap > Hsap.nohup 2>&1 &
+nohup Rscript plot_iterative_clustering.R -I Hsap.RData -S Hsap/Hsap -M /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/Hsap/Hsap.major.wilcox.FDR001.txt -G Hsap/Hsap.gene_for_plotting -L count_mean -W mean >> Hsap.nohup 2>&1 &
+# parameters for human
+de.param <- de_param(padj.th     = 0.05, 
+                     low.th      = 1, 
+                     q1.th       = 0.4, 
+                     q2.th       = NULL,
+                     q.diff.th   = 0.5,
+                     de.score.th = 100,
+                     min.cells = 250,
+                     min.genes = 8)
+
+iter.result <- iter_clust(norm.dat, 
+                          counts = norm.dat,
+                          dim.method = "pca",
+                          max.dim = 80,
+                          de.param = de.param,
+                          rm.eigen = rm.eigen,
+                          method = "louvain",
+                          prefix = label,
+                          verbose = TRUE,
+                          split.size = 800,
+                          #sampleSize = 20000,
+                          #max.cl.size = 500
+                          )
+
+
+# then get top reference labelling for Supp. Table 2
+Rscript get_top_reference_for_atlas_iterative_clustering.R
 
