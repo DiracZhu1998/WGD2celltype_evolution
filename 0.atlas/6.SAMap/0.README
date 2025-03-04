@@ -1,1 +1,5 @@
 
+# based on iterative annotation, annotation => tree at individual atlas => do SAMap => check mapping => refine annotation => next iteration
+# use SAMapxx.py to do SAMap
+# the Refined annotation folder contains annotation based on manual annotation
+# using extract_important_information.v2.py to extract integrated UMAP, mapping scores, and save the final pkl file
