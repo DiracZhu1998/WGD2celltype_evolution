@@ -46,7 +46,7 @@ non_neurons_ID = subset.obs[subset.obs['supercluster'].isin(list_)].sample(10000
 
 subset = subset[subset.obs.index.isin(list(neurons_ID+non_neurons_ID))].copy()
 subset.X = subset.X.astype(np.float64) # convert from int to float64
-subset.write('Hsap.subset.100k_neurons_100k_others.v2.h5ad', compression = 'gzip')
+subset.write('Hsap.subset.100k_neurons_100k_others.h5ad', compression = 'gzip')
 
 
 with open('matrix_files/barcodes.tsv', 'w') as f:
