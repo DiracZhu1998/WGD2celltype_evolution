@@ -1,1 +1,21 @@
+data retrieved from:
+https://github.com/linnarsson-lab/adult-human-brain
+
+
+Genes x cells: adult_human_20221007.loom
+Genes x clusters: adult_human_20221007.agg.loom
+
+In addition, expression matrices generated with the "standard" cellranger + velocyto pipeline using cellranger GRCh38-3.0.0 annotations are available in loom and anndata formats:
+
+human_adult_GRCh38-3.0.0.loom
+human_adult-GRCh38-3.0.0.h5ad (Annotations basically follow CELLxGENE standards.)
+
+####### subset data ######
+Due to slow of view function in loompy, I chose to use h5ad format for subsetting data and convert it to seurat object by python script
+
+dissection location spinal cord SpC was excluded
+only protein coding genes were included
+retain cells containing more than 400 transcripts (nCounts > 400)
+
+add supercluster annotation (Supp. Table 3 in human paper) and downsample 100k neurons and 100k non-neurons with seed 42
 
