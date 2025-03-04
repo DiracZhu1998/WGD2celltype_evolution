@@ -1,0 +1,203 @@
+Cluster	Cell number	Major labelling of reference	ratio of Major labelling of reference	subtype labelling of reference	ratio of subtype labelling of reference	Refined family	Refined subtype
+298	244	EG-CB	0.861	EG-CB	0.861	Astrocytes	Ast_298
+291	322	CBGABA	0.984	CBGABA2	0.981	Rhombencephalon GABAergic neurons	ReInh_291
+295	247	NEUR	0.607	NEUR	0.607	Rhombencephalon glutamatergic neurons	ReExc_295
+296	3449	CBGLUT	0.936	CBGLUT4	0.418	Rhombencephalon glutamatergic neurons	ReExc_Cerebellum granule cells_296
+297	466	CBGLUT	0.998	CBGLUT2	0.940	Rhombencephalon glutamatergic neurons	ReExc_Cerebellum granule cells_297
+27	188	DIGLUT	0.569	DIGLUT40	0.239	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_27
+28	207	DICHOL	0.966	DICHOL3	0.966	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_28
+24	307	DIGLUT	0.990	DIGLUT43	0.938	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_24
+467	390	DICHOL	0.567	DICHOL2	0.559	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_467
+463	1100	DIGLUT	0.531	NEUR	0.379	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_463
+25	211	DICHOL	0.919	DICHOL1	0.815	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_25
+26	227	DICHOL	0.877	DICHOL1	0.872	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_26
+180	740	TEGABA	0.373	NEUR	0.261	Telencephalon glutamatergic neurons	TeExc_180
+117	553	TEGLUT	0.651	TEGLUT26	0.425	Telencephalon glutamatergic neurons	TeExc_117
+119	830	TEGLUT	0.692	TEGLUT7	0.237	Telencephalon glutamatergic neurons	TeExc_119
+96	226	TEGLUT	0.942	TEGLUT5	0.447	Telencephalon glutamatergic neurons	TeExc_96
+126	337	TEGLUT	0.955	TEGLUT12	0.620	Telencephalon glutamatergic neurons	TeExc_126
+485	1962	NEUR	0.649	NEUR	0.649	Telencephalon glutamatergic neurons	TeExc_485
+127	445	TEGLUT	0.987	TEGLUT19	0.330	Telencephalon glutamatergic neurons	TeExc_127
+138	889	TEGLUT	0.893	TEGLUT17	0.287	Telencephalon glutamatergic neurons	TeExc_138
+122	389	TEGLUT	0.838	TEGLUT11	0.311	Telencephalon glutamatergic neurons	TeExc_122
+140	273	TEGLUT	0.810	TEGLUT13	0.564	Telencephalon glutamatergic neurons	TeExc_140
+139	438	TEGLUT	0.943	TEGLUT22	0.804	Telencephalon glutamatergic neurons	TeExc_139
+124	356	TEGLUT	0.854	TEGLUT23	0.275	Telencephalon glutamatergic neurons	TeExc_124
+125	345	TEGLUT	0.954	TEGLUT25	0.423	Telencephalon glutamatergic neurons	TeExc_125
+118	232	TEGLUT	0.802	TEGLUT1	0.698	Telencephalon glutamatergic neurons	TeExc_118
+121	429	TEGLUT	0.970	TEGLUT2	0.501	Telencephalon glutamatergic neurons	TeExc_121
+120	227	TEGLUT	0.758	TEGLUT5	0.370	Telencephalon glutamatergic neurons	TeExc_120
+143	290	TEGLUT	0.983	TEGLUT8	0.917	Telencephalon glutamatergic neurons	TeExc_143
+503	7624	NEUR	0.852	NEUR	0.852	Telencephalon glutamatergic neurons	TeExc_503
+144	449	TEGLUT	0.927	TEGLUT10	0.408	Telencephalon glutamatergic neurons	TeExc_144
+142	304	TEGLUT	0.938	TEGLUT9	0.523	Telencephalon glutamatergic neurons	TeExc_142
+145	530	TEGLUT	0.619	TEGLUT9	0.287	Telencephalon glutamatergic neurons	TeExc_145
+178	347	TEGABA	0.752	TEGABA13	0.205	Telencephalon GABAergic neurons	TeInh_MGE_178
+179	355	TEGABA	0.687	TEGABA6	0.321	Telencephalon GABAergic neurons	TeInh_MGE_179
+258	320	NEUR	0.484	NEUR	0.484	Mixture	Mixture_258
+192	349	NEUR	0.862	NEUR	0.862	Mixture	Mixture_192
+184	290	DIGLUT	0.762	DIGLUT22	0.341	Diencephalon glutamatergic neurons	DeExc_Thalamus_184
+186	464	NEUR	0.679	NEUR	0.679	Diencephalon glutamatergic neurons	DeExc_186
+185	636	DIGLUT	0.456	NEUR	0.451	Diencephalon glutamatergic neurons	DeExc_185
+182	2842	NEUR	0.663	NEUR	0.663	Mixture	Mixture_182
+193	3088	NEUR	0.697	NEUR	0.697	Mixture	Mixture_193
+194	208	DIGABA	0.861	DIGABA2	0.625	Diencephalon GABAergic neurons	DeInh_Hypothalamus_194
+61	291	DIGABA	0.436	DIGABA3	0.275	Diencephalon GABAergic neurons	DeInh_61
+204	338	TEGABA	0.864	TEGABA7	0.417	Telencephalon GABAergic neurons	TeInh_MGE_204
+30	384	TEGABA	0.883	TEGABA6	0.354	Telencephalon GABAergic neurons	TeInh_MGE_30
+206	217	TEGABA	0.972	TEGABA12	0.945	Telencephalon GABAergic neurons	TeInh_MGE_206
+56	325	TEGABA	0.982	TEGABA12	0.483	Telencephalon GABAergic neurons	TeInh_MGE_56
+205	276	TEGABA	0.928	TEGABA5	0.384	Telencephalon GABAergic neurons	TeInh_MGE_205
+504	294	NEUR	0.701	NEUR	0.701	Telencephalon GABAergic neurons	TeInh_MGE_504
+58	157	TEGABA	1.000	TEGABA14	0.777	Telencephalon GABAergic neurons	TeInh_MGE_58
+57	280	TEGABA	0.961	TEGABA9	0.575	Telencephalon GABAergic neurons	TeInh_CGE_57
+202	451	TEGABA	0.927	TEGABA9	0.324	Telencephalon GABAergic neurons	TeInh_CGE_202
+497	824	NEUR	0.744	NEUR	0.744	Telencephalon GABAergic neurons	TeInh_CGE_497
+285	286	NEUR	0.713	NEUR	0.713	Mixture	Mixture_285
+288	1039	NEUR	0.473	NEUR	0.473	Mixture	Mixture_288
+198	304	MEGABA	0.974	MEGABA8	0.316	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_198
+200	207	MEGABA	0.981	MEGABA11	0.585	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_200
+201	406	MEGABA	0.966	MEGABA10	0.495	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_201
+196	740	MEGABA	0.935	MEGABA17	0.319	Mesencephalon GABAergic neurons	MeInh_196
+470	676	NEUR	0.722	NEUR	0.722	Mesencephalon GABAergic neurons	MeInh_470
+212	672	MEGABA	0.990	MEGABA20	0.647	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_212
+237	351	MEGABA	0.963	MEGABA20	0.276	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_237
+214	284	MEGLUT	0.901	MEGLUT5	0.687	Mesencephalon glutamatergic neurons	MeExc_Optic Tectum_214
+188	460	NEUR	0.633	NEUR	0.633	Mesencephalon GABAergic neurons	MeInh_188
+255	645	MEGABA	0.950	MEGABA25	0.478	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_255
+234	3409	MEGLUT	0.545	NEUR	0.119	Mesencephalon glutamatergic neurons	MeExc_234
+249	1416	MEGABA	0.908	MEGABA32	0.196	Mesencephalon GABAergic neurons	MeInh_249
+62	484	MEGABA	0.517	MEGABA10	0.085	Mesencephalon GABAergic neurons	MeInh_62
+63	354	NEUR	0.333	NEUR	0.333	Mixture	Mixture_63
+131	290	TEGABA	0.790	TEGABA19	0.566	Telencephalon GABAergic neurons	TeInh_LGE_131
+135	417	TEGABA	0.583	TEGABA20	0.187	Telencephalon GABAergic neurons	TeInh_LGE_135
+137	475	TEGABA	0.893	TEGABA17	0.411	Telencephalon GABAergic neurons	TeInh_LGE_137
+129	540	TEGABA	0.830	TEGABA24	0.357	Telencephalon GABAergic neurons	TeInh_129
+134	916	TEGABA	0.490	NEUR	0.142	Telencephalon GABAergic neurons	TeInh_134
+136	428	TEGABA	0.311	DIGABA20	0.133	Telencephalon GABAergic neurons	TeInh_136
+208	284	DIGLUT	0.894	DIGLUT12	0.264	Diencephalon glutamatergic neurons	DeExc_208
+80	297	DIGLUT	0.912	DIGLUT15	0.182	Diencephalon glutamatergic neurons	DeExc_80
+81	596	DIGLUT	0.822	DIGLUT17	0.205	Diencephalon glutamatergic neurons	DeExc_81
+147	362	DIGLUT	0.558	NEUR	0.436	Diencephalon glutamatergic neurons	DeExc_147
+59	415	DIGLUT	0.969	DIGLUT19	0.501	Diencephalon glutamatergic neurons	DeExc_Thalamus_59
+195	480	DIGLUT	0.994	DIGLUT19	0.750	Diencephalon glutamatergic neurons	DeExc_Thalamus_195
+492	654	NEUR	0.602	NEUR	0.602	Diencephalon glutamatergic neurons	DeExc_492
+222	390	DIGLUT	0.767	DIGLUT50	0.315	Diencephalon glutamatergic neurons	DeExc_Hypothalamus_222
+207	346	DIGLUT	0.882	DIGLUT50	0.618	Diencephalon glutamatergic neurons	DeExc_Hypothalamus_207
+60	354	DIGLUT	0.932	DIGLUT50	0.602	Diencephalon glutamatergic neurons	DeExc_Hypothalamus_60
+67	696	DIGABA	0.599	DIGABA11	0.122	Diencephalon GABAergic neurons	DeInh_67
+68	518	DIGLUT	0.546	DIGLUT54	0.168	Diencephalon glutamatergic neurons	DeExc_68
+70	472	DIGABA	0.792	DIGABA23	0.189	Diencephalon glutamatergic neurons	DeExc_70
+71	245	DIGABA	0.518	TEGABA24	0.204	Mixture	Mixture_71
+209	1521	MEGABA	0.568	MEGABA41	0.105	Mesencephalon GABAergic neurons	MeInh_209
+65	576	MEGABA	0.616	MEGABA42	0.123	Mesencephalon GABAergic neurons	MeInh_65
+228	1082	MEGABA	0.323	NEUR	0.204	Mesencephalon GABAergic neurons	MeInh_228
+66	648	MEGABA	0.881	MEGABA2	0.153	Mesencephalon GABAergic neurons	MeInh_66
+240	1311	MEGABA	0.564	NEUR	0.211	Mesencephalon GABAergic neurons	MeInh_240
+216	2149	MEGABA	0.397	NEUR	0.077	Mesencephalon GABAergic neurons	MeInh_216
+479	25898	NEUR	0.663	NEUR	0.663	Mixture	Mixture_479
+64	307	DIGABA	0.645	DIGABA30	0.450	Diencephalon GABAergic neurons	DeInh_64
+230	270	DIGABA	0.563	DIGABA26	0.326	Diencephalon GABAergic neurons	DeInh_230
+73	511	DIGABA	0.673	DIGABA26	0.295	Diencephalon GABAergic neurons	DeInh_73
+78	632	DIGABA	0.585	DIGABA33	0.233	Diencephalon GABAergic neurons	DeInh_78
+72	467	DIGABA	0.516	DIGABA33	0.131	Diencephalon GABAergic neurons	DeInh_72
+75	524	DIGABA	0.504	DIGABA17	0.080	Diencephalon GABAergic neurons	DeInh_75
+233	274	TEGLUT	0.431	TEGLUT29	0.259	Diencephalon glutamatergic neurons	DeExc_233
+87	248	DIGLUT	0.480	TEGLUT27	0.230	Diencephalon glutamatergic neurons	DeExc_87
+232	329	DIGLUT	0.653	DIGLUT31	0.173	Diencephalon glutamatergic neurons	DeExc_232
+89	496	DIGLUT	0.742	DIGLUT31	0.194	Diencephalon glutamatergic neurons	DeExc_89
+86	294	DIGLUT	0.830	DIGLUT4	0.241	Diencephalon glutamatergic neurons	DeExc_86
+88	650	DIGLUT	0.623	DIGLUT24	0.069	Diencephalon glutamatergic neurons	DeExc_88
+83	330	DIGLUT	0.509	MEGABA40	0.191	Diencephalon glutamatergic neurons	DeExc_83
+210	1343	DIGLUT	0.488	NEUR	0.156	Diencephalon glutamatergic neurons	DeExc_210
+82	1582	DIGLUT	0.471	NEUR	0.084	Diencephalon glutamatergic neurons	DeExc_82
+225	1261	DIGLUT	0.585	DIGLUT38	0.117	Diencephalon glutamatergic neurons	DeExc_225
+226	402	DIGLUT	0.769	DIGLUT15	0.269	Diencephalon glutamatergic neurons	DeExc_226
+273	208	MCGLIA	0.817	MCGLIA	0.817	Microglia	Microglia_273
+92	662	MCGLIA	0.790	MCGLIA	0.790	Mixture	Mixture_92
+94	369	MCGLIA	0.957	MCGLIA	0.957	Microglia	Microglia_94
+272	366	OLIG	0.833	OLIG	0.833	Mixture	Mixture_272
+270	355	OLIG	0.924	OLIG	0.924	Mixture	Mixture_270
+264	2315	OLIG	0.659	OLIG	0.659	Mixture	Mixture_264
+490	983	OLIG	0.513	OLIG	0.513	Mixture	Mixture_490
+275	478	EG	0.552	EG	0.552	Mixture	Mixture_275
+281	431	NEUR	0.571	NEUR	0.571	Mixture	Mixture_281
+282	205	NEUR	0.712	NEUR	0.712	Mixture	Mixture_282
+279	327	EG	0.768	EG	0.768	Mixture	Mixture_279
+283	376	NEUR	0.394	NEUR	0.394	Mixture	Mixture_283
+489	956	EG	0.563	EG	0.563	Mixture	Mixture_489
+517	182	DISECR	0.593	DISECR3	0.593	Diencephalon neurons	DeN_Pituitary gland_517
+519	397	NPC	0.960	NPC	0.960	Neural progenitor cells	NPC_519
+521	766	NPC	0.765	NPC	0.765	Neural progenitor cells	NPC_521
+520	262	NPC	0.737	NPC	0.737	Neural progenitor cells	NPC_520
+570	472	NPC	0.299	NPC	0.299	Mixture	Mixture_570
+551	404	JCHAIN	0.906	JCHAIN	0.906	Immune cells	Imm_551
+552	205	JCHAIN	0.907	JCHAIN	0.907	Immune cells	Imm_552
+453	305	MCGLIA	0.951	MCGLIA	0.951	Microglia	Microglia_453
+452	1147	MCGLIA	0.997	MCGLIA	0.997	Microglia	Microglia_452
+454	366	MCGLIA	1.000	MCGLIA	1.000	Microglia	Microglia_454
+448	560	MCGLIA	0.995	MCGLIA	0.995	Microglia	Microglia_448
+457	3607	MCGLIA	0.996	MCGLIA	0.996	Microglia	Microglia_457
+549	281	END	1.000	END	1.000	Vascular cells	Vasc_549
+555	313	VEND	0.997	VEND	0.997	Vascular cells	Vasc_555
+556	254	VSMC	0.988	VSMC	0.988	Vascular cells	Vasc_556
+550	328	CH-P	1.000	CH-P	1.000	Choroid plexus epithelial cells	ChorEpi_550
+2	854	SCO	0.964	SCO	0.964	Ependymal cells	Epen_2
+4	793	SCO	0.996	SCO	0.996	Ependymal cells	Epen_4
+553	1221	SCO	0.998	SCO	0.998	Ependymal cells	Epen_553
+558	214	MCGLIA	0.981	MCGLIA	0.981	Microglia	Microglia_558
+571	320	MCGLIA	0.872	MCGLIA	0.872	Microglia	Microglia_571
+301	1343	EG-CB	0.981	EG-CB	0.981	Astrocytes	Ast_301
+328	218	EG	0.794	EG	0.794	Astrocytes	Ast_328
+351	426	EG	0.690	EG	0.690	Mixture	Mixture_351
+356	554	EG	0.839	EG	0.839	Astrocytes	Ast_356
+337	344	EG	0.994	EG	0.994	Astrocytes	Ast_337
+319	608	EG	0.990	EG	0.990	Astrocytes	Ast_319
+321	293	EG	0.990	EG	0.990	Astrocytes	Ast_321
+349	1331	EG	0.998	EG	0.998	Astrocytes	Ast_349
+353	713	EG	0.983	EG	0.983	Astrocytes	Ast_353
+354	5800	EG	0.991	EG	0.991	Astrocytes	Ast_354
+316	425	NEUR	0.965	NEUR	0.965	Mixture	Mixture_316
+317	546	NEUR	0.985	NEUR	0.985	Mixture	Mixture_317
+327	276	EG	1.000	EG	1.000	Astrocytes	Ast_327
+315	236	EG	0.877	EG	0.877	Astrocytes	Ast_315
+324	1102	EG	0.953	EG	0.953	Astrocytes	Ast_324
+322	914	EG	0.963	EG	0.963	Astrocytes	Ast_322
+323	930	EG	0.999	EG	0.999	Astrocytes	Ast_323
+352	1859	EG	0.957	EG	0.957	Astrocytes	Ast_352
+326	258	EG	0.992	EG	0.992	Astrocytes	Ast_326
+334	551	EG	0.996	EG	0.996	Astrocytes	Ast_334
+358	9710	EG	0.949	EG	0.949	Astrocytes	Ast_358
+577	2101	EG	0.970	EG	0.970	Astrocytes	Ast_577
+329	335	EG	0.979	EG	0.979	Astrocytes	Ast_329
+331	1116	EG	0.971	EG	0.971	Astrocytes	Ast_331
+335	916	EG	0.998	EG	0.998	Astrocytes	Ast_335
+406	426	MCGLIA	0.946	MCGLIA	0.946	Mixture	Mixture_406
+422	389	OLIG	0.979	OLIG	0.979	Oligodendrocytes	Oligo_422
+444	550	OLIG	0.935	OLIG	0.935	Oligodendrocytes	Oligo_444
+443	843	OLIG	0.835	OLIG	0.835	Oligodendrocytes	Oligo_443
+445	426	OLIG	0.899	OLIG	0.899	Oligodendrocytes	Oligo_445
+404	254	DIFF-OPC	0.961	DIFF-OPC	0.961	Oligodendrocytes	Oligo_404
+419	243	DIFF-OPC	0.860	DIFF-OPC	0.860	Oligodendrocytes	Oligo_419
+420	580	DIFF-OPC	0.702	DIFF-OPC	0.702	Oligodendrocytes	Oligo_420
+382	575	OLIG	0.894	OLIG	0.894	Oligodendrocytes	Oligo_382
+393	814	OLIG	0.999	OLIG	0.999	Oligodendrocytes	Oligo_393
+440	1264	OLIG	0.989	OLIG	0.989	Oligodendrocytes	Oligo_440
+424	3978	OLIG	1.000	OLIG	1.000	Oligodendrocytes	Oligo_424
+397	5085	OLIG	0.969	OLIG	0.969	Oligodendrocytes	Oligo_397
+430	4371	OLIG	0.997	OLIG	0.997	Oligodendrocytes	Oligo_430
+408	170	OLIG	1.000	OLIG	1.000	Oligodendrocytes	Oligo_408
+436	266	OLIG	0.898	OLIG	0.898	Oligodendrocytes	Oligo_436
+405	234	DIFF-OPC	1.000	DIFF-OPC	1.000	Oligodendrocytes	Oligo_405
+389	531	DIFF-OPC	0.979	DIFF-OPC	0.979	Oligodendrocytes	Oligo_389
+401	888	DIFF-OPC	0.882	DIFF-OPC	0.882	Oligodendrocytes	Oligo_401
+387	183	DIFF-OPC	1.000	DIFF-OPC	1.000	Oligodendrocytes	Oligo_387
+388	298	DIFF-OPC	0.997	DIFF-OPC	0.997	Oligodendrocytes	Oligo_388
+546	415	CYCL-CEL	0.949	CYCL-CEL	0.949	Mixture	Mixture_546
+539	7610	OPC	0.914	OPC	0.914	Oligodendrocyte precursor cells	OPC_539
+376	5199	OPC	0.972	OPC	0.972	Oligodendrocyte precursor cells	OPC_376
+363	4037	OPC	0.946	OPC	0.946	Oligodendrocyte precursor cells	OPC_363
+379	3109	OPC	0.957	OPC	0.957	Oligodendrocyte precursor cells	OPC_379
+378	280	DIFF-OPC	0.661	DIFF-OPC	0.661	Oligodendrocytes	Oligo_378
+371	306	DIFF-OPC	0.618	DIFF-OPC	0.618	Oligodendrocytes	Oligo_371
+523	514	DIFF-OPC	0.786	DIFF-OPC	0.786	Oligodendrocytes	Oligo_523

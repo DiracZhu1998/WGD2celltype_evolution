@@ -1,0 +1,242 @@
+Cluster	Cell number	Major labelling of reference	ratio of Major labelling of reference	subtype labelling of reference	ratio of subtype labelling of reference	Refined family	Refined subtype
+2	4895	Upper rhombic lip	1.000	URL_311	0.711	Rhombencephalon glutamatergic neurons	ReExc_2
+314	215	Cerebellar inhibitory	0.986	CBI_307	0.530	Rhombencephalon GABAergic neurons	ReInh_314
+315	360	Cerebellar inhibitory	1.000	CBI_306	0.764	Rhombencephalon GABAergic neurons	ReInh_315
+310	207	Thalamic excitatory	0.995	Thex_446	0.691	Diencephalon glutamatergic neurons	DeExc_310
+311	193	Thalamic excitatory	0.990	Thex_446	0.850	Diencephalon glutamatergic neurons	DeExc_311
+312	379	Thalamic excitatory	1.000	Thex_446	0.905	Diencephalon glutamatergic neurons	DeExc_312
+309	438	Thalamic excitatory	1.000	Thex_451	0.553	Diencephalon glutamatergic neurons	DeExc_309
+307	187	Thalamic excitatory	1.000	Thex_454	0.807	Diencephalon glutamatergic neurons	DeExc_307
+308	342	Thalamic excitatory	1.000	Thex_451	0.269	Diencephalon glutamatergic neurons	DeExc_308
+303	242	Thalamic excitatory	1.000	Thex_452	0.756	Diencephalon glutamatergic neurons	DeExc_303
+304	538	Thalamic excitatory	1.000	Thex_454	0.420	Diencephalon glutamatergic neurons	DeExc_304
+282	254	Thalamic excitatory	1.000	Thex_460	1.000	Diencephalon glutamatergic neurons	DeExc_282
+283	236	Thalamic excitatory	0.975	Thex_459	0.292	Diencephalon glutamatergic neurons	DeExc_283
+284	372	Thalamic excitatory	1.000	Thex_458	0.651	Diencephalon glutamatergic neurons	DeExc_284
+31	281	Medium spiny neuron	1.000	MSN_216	0.655	Telencephalon GABAergic neurons	TeInh_LGE_31
+28	969	Medium spiny neuron	0.995	MSN_214	0.472	Telencephalon GABAergic neurons	TeInh_LGE_28
+32	497	Medium spiny neuron	1.000	MSN_213	0.453	Telencephalon GABAergic neurons	TeInh_LGE_32
+33	289	Medium spiny neuron	1.000	MSN_213	0.945	Telencephalon GABAergic neurons	TeInh_LGE_33
+27	161	Medium spiny neuron	1.000	MSN_210	0.863	Telencephalon GABAergic neurons	TeInh_LGE_27
+15	440	Medium spiny neuron	1.000	MSN_207	0.795	Telencephalon GABAergic neurons	TeInh_LGE_15
+35	1002	Medium spiny neuron	1.000	MSN_209	0.414	Telencephalon GABAergic neurons	TeInh_LGE_35
+40	705	Medium spiny neuron	1.000	MSN_207	0.597	Telencephalon GABAergic neurons	TeInh_LGE_40
+42	314	Medium spiny neuron	0.997	MSN_211	0.895	Telencephalon GABAergic neurons	TeInh_LGE_42
+43	310	Medium spiny neuron	1.000	MSN_212	0.787	Telencephalon GABAergic neurons	TeInh_LGE_43
+269	155	Eccentric medium spiny neuron	1.000	EMSN_228	0.794	Telencephalon GABAergic neurons	TeInh_LGE_269
+270	339	Eccentric medium spiny neuron	0.997	EMSN_226	0.569	Telencephalon GABAergic neurons	TeInh_LGE_270
+271	305	Eccentric medium spiny neuron	0.679	EMSN_230	0.259	Telencephalon GABAergic neurons	TeInh_LGE_271
+272	238	Eccentric medium spiny neuron	1.000	EMSN_232	0.399	Telencephalon GABAergic neurons	TeInh_LGE_272
+273	230	Eccentric medium spiny neuron	1.000	EMSN_234	0.465	Telencephalon GABAergic neurons	TeInh_LGE_273
+257	262	Eccentric medium spiny neuron	0.615	MSN_221	0.366	Telencephalon GABAergic neurons	TeInh_LGE_257
+268	256	Eccentric medium spiny neuron	1.000	EMSN_224	0.402	Telencephalon GABAergic neurons	TeInh_LGE_268
+274	224	Medium spiny neuron	1.000	MSN_219	0.996	Telencephalon GABAergic neurons	TeInh_LGE_274
+278	309	Medium spiny neuron	0.945	MSN_217	0.531	Telencephalon GABAergic neurons	TeInh_LGE_278
+279	255	Medium spiny neuron	0.996	MSN_218	0.533	Telencephalon GABAergic neurons	TeInh_LGE_279
+112	788	Hippocampal dentate gyrus	1.000	DG_204	0.431	Telencephalon glutamatergic neurons	TeExc_Hippocampus_112
+565	259	Hippocampal dentate gyrus	1.000	DG_200	0.865	Telencephalon glutamatergic neurons	TeExc_Hippocampus_565
+144	261	Hippocampal dentate gyrus	1.000	DG_200	0.954	Telencephalon glutamatergic neurons	TeExc_Hippocampus_144
+149	1429	Hippocampal dentate gyrus	1.000	DG_201	0.481	Telencephalon glutamatergic neurons	TeExc_Hippocampus_149
+254	267	Miscellaneous	0.906	L5ET_117	0.438	Telencephalon glutamatergic neurons	TeExc_254
+255	279	Hippocampal CA1-3	1.000	CA13_119	0.957	Telencephalon glutamatergic neurons	TeExc_Hippocampus_255
+158	1361	Hippocampal CA1-3	1.000	CA13_180	0.408	Telencephalon glutamatergic neurons	TeExc_Hippocampus_158
+159	373	Hippocampal CA1-3	0.997	CA13_186	0.485	Telencephalon glutamatergic neurons	TeExc_Hippocampus_159
+156	299	Hippocampal CA1-3	0.977	CA13_179	0.401	Telencephalon glutamatergic neurons	TeExc_Hippocampus_156
+160	580	Hippocampal CA1-3	1.000	CA13_183	0.333	Telencephalon glutamatergic neurons	TeExc_Hippocampus_160
+154	259	Hippocampal CA4	0.996	CA4_195	0.278	Telencephalon glutamatergic neurons	TeExc_Hippocampus_154
+155	158	Hippocampal CA4	1.000	CA4_197	0.316	Telencephalon glutamatergic neurons	TeExc_Hippocampus_155
+247	314	Deep-layer corticothalamic and 6b	0.997	DLCT6b_105	0.462	Telencephalon glutamatergic neurons	TeExc_247
+248	300	Deep-layer corticothalamic and 6b	1.000	DLCT6b_106	0.763	Telencephalon glutamatergic neurons	TeExc_248
+105	268	Deep-layer corticothalamic and 6b	0.993	DLCT6b_98	0.418	Telencephalon glutamatergic neurons	TeExc_105
+246	418	Deep-layer corticothalamic and 6b	0.998	DLCT6b_101	0.249	Telencephalon glutamatergic neurons	TeExc_246
+249	167	Deep-layer corticothalamic and 6b	0.892	DLCT6b_112	0.629	Telencephalon glutamatergic neurons	TeExc_249
+251	529	Deep-layer corticothalamic and 6b	1.000	DLCT6b_110	0.469	Telencephalon glutamatergic neurons	TeExc_251
+104	196	Deep-layer corticothalamic and 6b	0.985	DLCT6b_108	0.388	Telencephalon glutamatergic neurons	TeExc_104
+253	621	Deep-layer corticothalamic and 6b	1.000	DLCT6b_109	0.517	Telencephalon glutamatergic neurons	TeExc_253
+110	203	Deep-layer corticothalamic and 6b	0.995	DLCT6b_84	0.931	Telencephalon glutamatergic neurons	TeExc_110
+107	253	Deep-layer near-projecting	0.992	DLNP_88	0.233	Telencephalon glutamatergic neurons	TeExc_107
+108	487	Deep-layer near-projecting	1.000	DLNP_94	0.170	Telencephalon glutamatergic neurons	TeExc_108
+170	454	Deep-layer intratelencephalic	1.000	DLIT_150	0.716	Telencephalon glutamatergic neurons	TeExc_170
+169	475	Deep-layer intratelencephalic	1.000	DLIT_151	0.691	Telencephalon glutamatergic neurons	TeExc_169
+172	418	Deep-layer intratelencephalic	1.000	DLIT_151	0.610	Telencephalon glutamatergic neurons	TeExc_172
+95	339	Deep-layer intratelencephalic	0.985	DLIT_137	0.938	Telencephalon glutamatergic neurons	TeExc_95
+96	304	Deep-layer intratelencephalic	0.970	DLIT_137	0.954	Telencephalon glutamatergic neurons	TeExc_96
+79	348	Deep-layer intratelencephalic	0.994	DLIT_142	0.549	Telencephalon glutamatergic neurons	TeExc_79
+231	749	Deep-layer intratelencephalic	0.972	DLIT_143	0.362	Telencephalon glutamatergic neurons	TeExc_231
+78	1316	Deep-layer intratelencephalic	0.998	DLIT_144	0.602	Telencephalon glutamatergic neurons	TeExc_78
+81	707	Deep-layer intratelencephalic	0.999	DLIT_141	0.492	Telencephalon glutamatergic neurons	TeExc_81
+84	741	Deep-layer intratelencephalic	0.999	DLIT_139	0.821	Telencephalon glutamatergic neurons	TeExc_84
+86	244	Deep-layer intratelencephalic	1.000	DLIT_139	0.922	Telencephalon glutamatergic neurons	TeExc_86
+103	263	Upper-layer intratelencephalic	0.973	ULIT_138	0.852	Telencephalon glutamatergic neurons	TeExc_103
+100	1834	Upper-layer intratelencephalic	0.997	ULIT_138	0.980	Telencephalon glutamatergic neurons	TeExc_100
+98	206	Upper-layer intratelencephalic	0.966	ULIT_138	0.927	Telencephalon glutamatergic neurons	TeExc_98
+88	641	Upper-layer intratelencephalic	0.991	ULIT_135	0.939	Telencephalon glutamatergic neurons	TeExc_88
+90	333	Upper-layer intratelencephalic	0.940	ULIT_135	0.640	Telencephalon glutamatergic neurons	TeExc_90
+45	316	Upper-layer intratelencephalic	0.870	ULIT_133	0.785	Telencephalon glutamatergic neurons	TeExc_45
+69	397	Upper-layer intratelencephalic	0.935	ULIT_133	0.403	Telencephalon glutamatergic neurons	TeExc_69
+70	228	Upper-layer intratelencephalic	1.000	ULIT_133	0.807	Telencephalon glutamatergic neurons	TeExc_70
+66	381	Upper-layer intratelencephalic	0.751	ULIT_130	0.205	Telencephalon glutamatergic neurons	TeExc_66
+71	264	Upper-layer intratelencephalic	1.000	ULIT_128	0.530	Telencephalon glutamatergic neurons	TeExc_71
+73	337	Upper-layer intratelencephalic	1.000	ULIT_134	0.576	Telencephalon glutamatergic neurons	TeExc_73
+76	504	Upper-layer intratelencephalic	0.996	ULIT_129	0.440	Telencephalon glutamatergic neurons	TeExc_76
+97	152	Miscellaneous	0.928	Misc_177	0.645	Telencephalon glutamatergic neurons	TeExc_97
+173	223	Miscellaneous	0.991	Misc_165	0.413	Telencephalon glutamatergic neurons	TeExc_173
+174	274	Amygdala excitatory	0.996	Amex_172	0.697	Telencephalon glutamatergic neurons	TeExc_Amygdala_174
+175	225	Amygdala excitatory	1.000	Amex_172	0.698	Telencephalon glutamatergic neurons	TeExc_Amygdala_175
+188	357	Amygdala excitatory	1.000	Amex_155	0.588	Telencephalon glutamatergic neurons	TeExc_Amygdala_188
+189	369	Amygdala excitatory	1.000	Amex_155	0.634	Telencephalon glutamatergic neurons	TeExc_Amygdala_189
+190	351	Amygdala excitatory	0.915	Amex_405	0.590	Telencephalon glutamatergic neurons	TeExc_Amygdala_190
+194	351	Amygdala excitatory	0.863	Amex_161	0.356	Telencephalon glutamatergic neurons	TeExc_Amygdala_194
+195	272	Amygdala excitatory	1.000	Amex_161	0.327	Telencephalon glutamatergic neurons	TeExc_Amygdala_195
+191	791	Amygdala excitatory	0.976	Amex_157	0.405	Telencephalon glutamatergic neurons	TeExc_Amygdala_191
+193	393	Amygdala excitatory	0.995	Amex_157	0.453	Telencephalon glutamatergic neurons	TeExc_Amygdala_193
+202	239	Upper-layer intratelencephalic	0.992	ULIT_131	0.900	Telencephalon glutamatergic neurons	TeExc_202
+93	169	Deep-layer intratelencephalic	0.509	DLIT_150	0.231	Telencephalon glutamatergic neurons	TeExc_93
+244	766	Deep-layer intratelencephalic	0.999	DLIT_148	0.520	Telencephalon glutamatergic neurons	TeExc_244
+243	256	Deep-layer intratelencephalic	1.000	DLIT_149	0.605	Telencephalon glutamatergic neurons	TeExc_243
+92	1208	Deep-layer intratelencephalic	0.987	DLIT_149	0.716	Telencephalon glutamatergic neurons	TeExc_92
+233	241	Deep-layer intratelencephalic	0.880	DLIT_145	0.539	Telencephalon glutamatergic neurons	TeExc_233
+234	257	Deep-layer intratelencephalic	0.984	DLIT_146	0.514	Telencephalon glutamatergic neurons	TeExc_234
+235	184	Deep-layer intratelencephalic	0.978	DLIT_147	0.788	Telencephalon glutamatergic neurons	TeExc_235
+572	854	Upper-layer intratelencephalic	0.265	ULIT_130	0.117	Telencephalon glutamatergic neurons	TeExc_572
+68	1089	Upper-layer intratelencephalic	0.999	ULIT_129	0.443	Telencephalon glutamatergic neurons	TeExc_68
+203	435	Upper-layer intratelencephalic	1.000	ULIT_130	0.455	Telencephalon glutamatergic neurons	TeExc_203
+228	310	Upper-layer intratelencephalic	1.000	ULIT_129	0.684	Telencephalon glutamatergic neurons	TeExc_228
+205	216	Upper-layer intratelencephalic	0.995	ULIT_128	0.505	Telencephalon glutamatergic neurons	TeExc_205
+201	411	Upper-layer intratelencephalic	1.000	ULIT_131	0.815	Telencephalon glutamatergic neurons	TeExc_201
+204	325	Upper-layer intratelencephalic	0.997	ULIT_120	0.286	Telencephalon glutamatergic neurons	TeExc_204
+178	2783	Upper-layer intratelencephalic	0.985	ULIT_123	0.590	Telencephalon glutamatergic neurons	TeExc_178
+213	249	Upper-layer intratelencephalic	0.795	ULIT_121	0.635	Telencephalon glutamatergic neurons	TeExc_213
+217	353	Upper-layer intratelencephalic	0.997	ULIT_121	0.646	Telencephalon glutamatergic neurons	TeExc_217
+214	564	Upper-layer intratelencephalic	0.998	ULIT_120	0.402	Telencephalon glutamatergic neurons	TeExc_214
+215	445	Upper-layer intratelencephalic	1.000	ULIT_121	0.838	Telencephalon glutamatergic neurons	TeExc_215
+207	560	Upper-layer intratelencephalic	0.996	ULIT_126	0.571	Telencephalon glutamatergic neurons	TeExc_207
+229	420	Upper-layer intratelencephalic	0.990	ULIT_126	0.469	Telencephalon glutamatergic neurons	TeExc_229
+219	198	Upper-layer intratelencephalic	1.000	ULIT_124	0.722	Telencephalon glutamatergic neurons	TeExc_219
+230	1538	Upper-layer intratelencephalic	1.000	ULIT_124	0.284	Telencephalon glutamatergic neurons	TeExc_230
+176	820	Upper-layer intratelencephalic	0.933	ULIT_123	0.221	Telencephalon glutamatergic neurons	TeExc_176
+226	1469	Upper-layer intratelencephalic	0.990	ULIT_124	0.168	Telencephalon glutamatergic neurons	TeExc_226
+199	381	Upper-layer intratelencephalic	0.958	ULIT_126	0.459	Telencephalon glutamatergic neurons	TeExc_199
+197	337	Amygdala excitatory	0.917	Amex_174	0.745	Telencephalon glutamatergic neurons	TeExc_Amygdala_197
+198	340	Amygdala excitatory	0.935	Amex_175	0.659	Telencephalon glutamatergic neurons	TeExc_Amygdala_198
+321	271	Midbrain-derived inhibitory	1.000	Midi_439	0.697	Mesencephalon GABAergic neurons	MeInh_321
+341	911	Midbrain-derived inhibitory	1.000	Midi_441	0.684	Diencephalon GABAergic neurons	DeInh_341
+329	763	Midbrain-derived inhibitory	1.000	Midi_438	0.296	Diencephalon GABAergic neurons	DeInh_329
+335	580	Midbrain-derived inhibitory	1.000	Midi_443	0.478	Diencephalon GABAergic neurons	DeInh_335
+338	208	Midbrain-derived inhibitory	1.000	Midi_436	0.663	Diencephalon GABAergic neurons	DeInh_338
+322	387	Midbrain-derived inhibitory	1.000	Midi_439	0.571	Diencephalon GABAergic neurons	DeInh_322
+324	589	Midbrain-derived inhibitory	1.000	Midi_441	0.382	Diencephalon GABAergic neurons	DeInh_324
+326	573	Midbrain-derived inhibitory	1.000	Midi_443	0.213	Diencephalon GABAergic neurons	DeInh_326
+339	746	Midbrain-derived inhibitory	1.000	Midi_436	0.201	Diencephalon GABAergic neurons	DeInh_339
+461	599	LAMP5-LHX6 and Chandelier	1.000	LLC_270	0.280	Telencephalon GABAergic neurons	TeInh_461
+464	615	LAMP5-LHX6 and Chandelier	1.000	LLC_274	0.411	Telencephalon GABAergic neurons	TeInh_464
+467	665	CGE interneuron	1.000	CGE_287	0.830	Telencephalon GABAergic neurons	TeInh_CGE_467
+469	1022	CGE interneuron	1.000	CGE_288	0.911	Telencephalon GABAergic neurons	TeInh_CGE_469
+501	358	CGE interneuron	1.000	CGE_286	0.785	Telencephalon GABAergic neurons	TeInh_CGE_501
+502	438	CGE interneuron	1.000	CGE_286	0.749	Telencephalon GABAergic neurons	TeInh_CGE_502
+477	444	CGE interneuron	1.000	CGE_294	0.484	Telencephalon GABAergic neurons	TeInh_CGE_477
+481	222	CGE interneuron	1.000	CGE_294	0.315	Telencephalon GABAergic neurons	TeInh_CGE_481
+483	442	CGE interneuron	1.000	CGE_293	0.566	Telencephalon GABAergic neurons	TeInh_CGE_483
+484	642	CGE interneuron	1.000	CGE_293	0.659	Telencephalon GABAergic neurons	TeInh_CGE_484
+490	318	CGE interneuron	1.000	CGE_289	0.890	Telencephalon GABAergic neurons	TeInh_CGE_490
+491	276	CGE interneuron	1.000	CGE_296	0.605	Telencephalon GABAergic neurons	TeInh_CGE_491
+492	169	CGE interneuron	1.000	CGE_296	0.692	Telencephalon GABAergic neurons	TeInh_CGE_492
+473	639	CGE interneuron	1.000	CGE_290	0.554	Telencephalon GABAergic neurons	TeInh_CGE_473
+474	314	CGE interneuron	1.000	CGE_290	0.898	Telencephalon GABAergic neurons	TeInh_CGE_474
+470	407	CGE interneuron	1.000	CGE_291	0.887	Telencephalon GABAergic neurons	TeInh_CGE_470
+480	427	CGE interneuron	1.000	CGE_292	0.824	Telencephalon GABAergic neurons	TeInh_CGE_480
+487	563	CGE interneuron	0.995	CGE_284	0.584	Telencephalon GABAergic neurons	TeInh_CGE_487
+498	430	CGE interneuron	1.000	CGE_282	0.728	Telencephalon GABAergic neurons	TeInh_CGE_498
+499	392	CGE interneuron	1.000	CGE_283	0.679	Telencephalon GABAergic neurons	TeInh_CGE_499
+496	388	CGE interneuron	0.997	CGE_278	0.791	Telencephalon GABAergic neurons	TeInh_CGE_496
+494	332	CGE interneuron	0.994	CGE_279	0.599	Telencephalon GABAergic neurons	TeInh_CGE_494
+495	368	CGE interneuron	0.992	CGE_279	0.277	Telencephalon GABAergic neurons	TeInh_CGE_495
+344	228	Splatter	1.000	Splat_409	0.987	Telencephalon GABAergic neurons	TeInh_MGE_344
+384	275	Splatter	1.000	Splat_238	0.956	Telencephalon GABAergic neurons	TeInh_MGE_384
+417	484	MGE interneuron	1.000	MGE_241	0.430	Telencephalon GABAergic neurons	TeInh_MGE_417
+418	595	MGE interneuron	0.990	MGE_243	0.639	Telencephalon GABAergic neurons	TeInh_MGE_418
+414	422	MGE interneuron	0.810	MGE_249	0.220	Telencephalon GABAergic neurons	TeInh_MGE_414
+415	291	MGE interneuron	0.773	MGE_242	0.646	Telencephalon GABAergic neurons	TeInh_MGE_415
+409	811	MGE interneuron	0.999	MGE_250	0.649	Telencephalon GABAergic neurons	TeInh_MGE_409
+413	270	MGE interneuron	0.996	MGE_239	0.604	Telencephalon GABAergic neurons	TeInh_MGE_413
+428	386	MGE interneuron	0.767	MGE_254	0.645	Telencephalon GABAergic neurons	TeInh_MGE_428
+421	853	MGE interneuron	0.987	MGE_251	0.667	Telencephalon GABAergic neurons	TeInh_MGE_421
+427	243	MGE interneuron	1.000	MGE_253	0.667	Telencephalon GABAergic neurons	TeInh_MGE_427
+430	345	MGE interneuron	1.000	MGE_252	0.832	Telencephalon GABAergic neurons	TeInh_MGE_430
+431	398	MGE interneuron	1.000	MGE_252	0.663	Telencephalon GABAergic neurons	TeInh_MGE_431
+434	533	LAMP5-LHX6 and Chandelier	0.998	LLC_264	0.454	Telencephalon GABAergic neurons	TeInh_434
+438	308	MGE interneuron	1.000	MGE_256	0.562	Telencephalon GABAergic neurons	TeInh_MGE_438
+440	166	MGE interneuron	1.000	MGE_255	0.675	Telencephalon GABAergic neurons	TeInh_MGE_440
+459	339	MGE interneuron	0.994	MGE_261	0.407	Telencephalon GABAergic neurons	TeInh_MGE_459
+446	1307	MGE interneuron	1.000	MGE_261	0.324	Telencephalon GABAergic neurons	TeInh_MGE_446
+458	524	MGE interneuron	1.000	MGE_261	0.534	Telencephalon GABAergic neurons	TeInh_MGE_458
+442	686	MGE interneuron	1.000	MGE_259	0.367	Telencephalon GABAergic neurons	TeInh_MGE_442
+443	362	MGE interneuron	0.972	MGE_259	0.351	Telencephalon GABAergic neurons	TeInh_MGE_443
+439	222	MGE interneuron	1.000	MGE_257	0.532	Telencephalon GABAergic neurons	TeInh_MGE_439
+455	316	MGE interneuron	1.000	MGE_258	0.532	Telencephalon GABAergic neurons	TeInh_MGE_455
+342	484	Mammillary body	1.000	Mmb_328	0.192	Diencephalon glutamatergic neurons	DeExc_Hypothalamus_342
+343	165	Mammillary body	0.988	Mmb_324	0.279	Diencephalon glutamatergic neurons	DeExc_Hypothalamus_343
+362	383	Splatter	0.997	Splat_365	0.261	Splatter	Splatter_362
+363	300	Splatter	1.000	Splat_364	0.520	Mesencephalon glutamatergic neurons	MeExc_363
+348	418	Splatter	0.782	Splat_235	0.189	Splatter	Splatter_348
+276	425	Amygdala excitatory	0.391	Amex_407	0.146	Telencephalon glutamatergic neurons	Te/DeExc_276
+277	545	Splatter	0.622	Splat_429	0.473	Diencephalon GABAergic neurons	DeInh_277
+371	169	Splatter	0.994	Splat_415	0.272	Diencephalon GABAergic neurons	DeInh_371
+349	309	Splatter	0.984	Splat_356	0.223	Rhombencephalon GABAergic neurons	ReInh_349
+356	243	Splatter	1.000	Splat_365	0.420	Rhombencephalon GABAergic neurons	ReInh_356
+370	353	Splatter	0.958	Splat_418	0.255	Splatter	Splatter_370
+345	1265	Splatter	0.895	Splat_365	0.101	Splatter	Splatter_345
+357	484	Splatter	0.983	Splat_365	0.128	Splatter	Splatter_357
+375	365	Splatter	0.967	Splat_432	0.230	Diencephalon GABAergic neurons	DeInh_375
+373	547	Splatter	0.974	Splat_415	0.190	Diencephalon GABAergic neurons	DeInh_373
+382	1308	Splatter	0.907	Splat_415	0.381	Splatter	Splatter_382
+377	1281	Splatter	0.974	Splat_368	0.134	Mesencephalon glutamatergic neurons	MeExc_377
+381	1415	Splatter	0.980	Splat_365	0.141	Splatter	Splatter_381
+358	785	Splatter	0.961	Splat_368	0.186	Mesencephalon glutamatergic neurons	MeExc_358
+359	959	Splatter	0.961	Splat_365	0.344	Splatter	Splatter_359
+318	370	Lower rhombic lip	0.878	LRL_320	0.573	Rhombencephalon glutamatergic neurons	ReExc_318
+316	1530	Lower rhombic lip	1.000	LRL_320	0.484	Rhombencephalon glutamatergic neurons	ReExc_316
+319	353	Lower rhombic lip	1.000	LRL_320	0.640	Rhombencephalon glutamatergic neurons	ReExc_319
+512	497	Microglia	1.000	Mgl_9	0.801	Microglia	Microglia_512
+513	8708	Microglia	1.000	Mgl_7	0.405	Microglia	Microglia_513
+504	310	Microglia	0.997	Mgl_12	0.994	Microglia	Microglia_504
+511	154	Microglia	0.916	Mgl_12	0.273	Microglia	Microglia_511
+577	658	Vascular	1.000	VendC_15	0.527	Vascular cells	Vasc_577
+584	512	Vascular	0.992	Per_22	0.410	Vascular cells	Vasc_584
+582	223	Fibroblast	0.991	Fbl_31	0.314	Fibroblasts	Fibro_582
+579	372	Fibroblast	1.000	Fbl_28	0.565	Fibroblasts	Fibro_579
+583	567	Fibroblast	0.700	Fbl_28	0.351	Fibroblasts	Fibro_583
+547	843	Oligodendrocyte	0.907	Oligo_49	0.781	Oligodendrocytes	Oligo_547
+544	466	Oligodendrocyte	1.000	Oligo_49	0.852	Oligodendrocytes	Oligo_544
+546	250	Oligodendrocyte	0.992	Oligo_49	0.992	Oligodendrocytes	Oligo_546
+550	271	Oligodendrocyte	1.000	Oligo_50	0.841	Oligodendrocytes	Oligo_550
+531	4250	Oligodendrocyte	0.992	Oligo_49	0.387	Oligodendrocytes	Oligo_531
+542	9687	Oligodendrocyte	1.000	Oligo_49	0.482	Oligodendrocytes	Oligo_542
+533	1838	Oligodendrocyte	0.989	Oligo_47	0.604	Oligodendrocytes	Oligo_533
+521	9879	Oligodendrocyte	0.981	Oligo_47	0.417	Oligodendrocytes	Oligo_521
+529	27639	Oligodendrocyte	0.999	Oligo_45	0.309	Oligodendrocytes	Oligo_529
+563	299	Oligodendrocyte precursor	0.813	OPC_36	0.639	Oligodendrocyte precursor cells	OPC_563
+552	236	Committed oligodendrocyte precursor	0.894	COP_37	0.462	Oligodendrocyte precursor cells	OPC_552
+556	12162	Oligodendrocyte precursor	1.000	OPC_33	0.444	Oligodendrocyte precursor cells	OPC_556
+629	236	Choroid plexus	1.000	Chrp_78	0.449	Choroid plexus epithelial cells	ChorEpi_629
+631	628	Choroid plexus	0.982	Chrp_78	0.318	Choroid plexus epithelial cells	ChorEpi_631
+633	441	Ependymal	0.998	Epen_72	0.259	Ependymal cells	Epen_633
+634	211	Ependymal	1.000	Epen_69	0.332	Ependymal cells	Epen_634
+586	991	Bergmann glia	1.000	Bgl_51	1.000	Astrocytes	Ast_Bergmann glia_586
+664	264	Astrocyte	0.989	Astro_61	0.470	Astrocytes	Ast_664
+615	699	Astrocyte	1.000	Astro_61	0.959	Astrocytes	Ast_615
+621	2824	Astrocyte	0.995	Astro_62	0.437	Astrocytes	Ast_621
+661	431	Astrocyte	0.998	Astro_62	0.626	Astrocytes	Ast_661
+609	2144	Astrocyte	0.972	Astro_60	0.730	Astrocytes	Ast_609
+659	783	Astrocyte	1.000	Astro_60	0.792	Astrocytes	Ast_659
+606	1338	Astrocyte	0.999	Astro_62	0.700	Astrocytes	Ast_606
+657	407	Astrocyte	1.000	Astro_62	0.668	Astrocytes	Ast_657
+627	254	Astrocyte	1.000	Astro_58	0.799	Astrocytes	Ast_627
+655	317	Astrocyte	1.000	Astro_58	0.710	Astrocytes	Ast_655
+656	328	Astrocyte	1.000	Astro_57	0.942	Astrocytes	Ast_656
+650	282	Astrocyte	1.000	Astro_55	0.922	Astrocytes	Ast_650
+654	505	Astrocyte	1.000	Astro_53	0.687	Astrocytes	Ast_654
+651	1630	Astrocyte	1.000	Astro_54	0.767	Astrocytes	Ast_651
+652	962	Astrocyte	0.999	Astro_54	0.585	Astrocytes	Ast_652
+593	2998	Astrocyte	0.992	Astro_52	0.443	Astrocytes	Ast_593
+636	1746	Astrocyte	1.000	Astro_52	0.854	Astrocytes	Ast_636

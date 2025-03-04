@@ -1,0 +1,142 @@
+Cluster	Cell number	Major labelling of reference	ratio of Major labelling of reference	subtype labelling of reference	ratio of subtype labelling of reference	Refined family	Refined subtype
+266	185	Photoreceptors	0.989	Photo3	0.465	Photoreceptor cells	Photo_266
+99	314	Excitatory telencephalon	1.000	TeExc1	0.987	Telencephalon glutamatergic neurons	TeExc_99
+324	237	Immune	0.620	Micro1	0.591	Microglia	Microglia_324
+125	313	Habenular neurons	1.000	DeExc2	0.514	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_125
+126	251	Habenular neurons	0.920	DeExc2	0.478	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_126
+189	351	Habenular neurons	0.994	DeChol3	0.889	Diencephalon glutamatergic neurons	DeChol_Habenular neurons_189
+190	180	Habenular neurons	1.000	DeChol3	0.983	Diencephalon glutamatergic neurons	DeChol_Habenular neurons_190
+191	455	Habenular neurons	0.996	DeChol3	0.690	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_191
+194	338	Habenular neurons	0.997	DeChol3	0.911	Diencephalon glutamatergic neurons	DeExc_Habenular neurons_194
+193	233	Habenular neurons	1.000	DeChol3	0.833	Diencephalon glutamatergic neurons	DeChol_Habenular neurons_193
+195	144	Habenular neurons	1.000	DeChol3	1.000	Diencephalon glutamatergic neurons	DeChol_Habenular neurons_195
+95	500	Meningeal fibroblasts	0.238	Fibro1	0.222	Mixture	Mixture_95
+97	122	Meningeal fibroblasts	0.459	Fibro2	0.459	Mixture	Mixture_97
+124	104	Spinal cord/Rhombencephalon neurons	0.990	ReInh2	0.683	Rhombencephalon GABAergic neurons	ReInh_124
+173	470	Astrocytes	0.194	DeChol3	0.057	Mixture	Mixture_173
+131	383	Inhibitory telencephalon	1.000	TeInh7	0.433	Telencephalon GABAergic neurons	TeInh_LGE_131
+130	195	Inhibitory telencephalon	1.000	TeInh8	0.667	Telencephalon GABAergic neurons	TeInh_LGE_130
+128	332	Inhibitory telencephalon	0.982	TeInh8	0.858	Telencephalon GABAergic neurons	TeInh_LGE_128
+129	398	Inhibitory telencephalon	1.000	TeDopa1	0.565	Telencephalon GABAergic neurons	TeDopa_LGE_129
+292	398	Inhibitory telencephalon	0.995	TeInh8	0.716	Telencephalon GABAergic neurons	TeInh_LGE_292
+144	138	Excitatory telencephalon	1.000	TeExc2	0.986	Telencephalon glutamatergic neurons	TeExc_144
+138	126	Inhibitory mesencephalon	1.000	Meinh4	0.556	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_138
+139	221	Inhibitory mesencephalon	0.991	MeInh3	0.520	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_139
+140	188	Inhibitory mesencephalon	0.995	MeInh3	0.941	Mesencephalon GABAergic neurons	MeInh_Optic Tectum_140
+167	116	Inhibitory mesencephalon	0.991	MeInh9	0.638	Mesencephalon GABAergic neurons	MeInh_167
+154	144	Inhibitory mesencephalon	0.882	MeInh6	0.528	Mesencephalon GABAergic neurons	MeInh_154
+172	454	Inhibitory mesencephalon	0.993	MeInh5	0.352	Mesencephalon GABAergic neurons	MeInh_172
+156	335	Inhibitory mesencephalon	0.991	MeInh7	0.436	Mesencephalon GABAergic neurons	MeInh_156
+171	284	Inhibitory mesencephalon	0.923	MeInh7	0.577	Mesencephalon GABAergic neurons	MeInh_171
+169	236	Inhibitory mesencephalon	0.979	MeInh1	0.314	Mesencephalon GABAergic neurons	MeInh_169
+170	154	Inhibitory mesencephalon	1.000	MeInh7	0.312	Mesencephalon GABAergic neurons	MeInh_170
+147	306	Spinal cord/Rhombencephalon neurons	0.778	ReInh6	0.366	Rhombencephalon GABAergic neurons	ReInh_Medulla_147
+178	434	Excitatory telencephalon	0.382	TeExc2	0.311	Mixture	Mixture_178
+149	266	Inhibitory telencephalon	0.974	TeInh5	0.402	Telencephalon GABAergic neurons	TeInh_MGE_149
+150	260	Inhibitory telencephalon	0.900	TeInh3	0.208	Telencephalon GABAergic neurons	TeInh_MGE_150
+151	580	Inhibitory telencephalon	0.553	TeInh4	0.107	Telencephalon GABAergic neurons	TeInh_MGE_151
+155	347	Inhibitory mesencephalon	0.435	MeInh8	0.231	Mesencephalon GABAergic neurons	MeInh_155
+283	1172	Inhibitory mesencephalon	0.438	MeNeb1	0.062	Mixture	Mixture_283
+142	188	Peptidergic	0.559	DePep1	0.489	Peptidergic neurons	DePep_142
+163	121	Excitatory dien-/mesencephalon	0.719	DeExc5	0.661	Diencephalon glutamatergic neurons	DeExc_Thalamus_163
+141	477	Excitatory dien-/mesencephalon	0.918	MeExc5	0.304	Mesencephalon glutamatergic neurons	MeExc_Optic Tectum_141
+165	426	Inhibitory mesencephalon	0.458	MeExc1	0.312	Mesencephalon glutamatergic neurons	MeExc_165
+164	196	Inhibitory mesencephalon	0.740	DeNeb5	0.372	Mesencephalon glutamatergic neurons	MeExc_164
+158	241	Excitatory dien-/mesencephalon	0.788	MeExc6	0.261	Mesencephalon glutamatergic neurons	MeExc_158
+166	622	Excitatory dien-/mesencephalon	0.701	MeExc6	0.211	Mesencephalon glutamatergic neurons	MeExc_166
+136	130	Excitatory telencephalon	1.000	TeExc7	0.385	Telencephalon glutamatergic neurons	TeExc_136
+134	442	Excitatory telencephalon	0.971	TeExc7	0.760	Telencephalon glutamatergic neurons	TeExc_134
+135	253	Excitatory telencephalon	1.000	TeExc5	0.506	Telencephalon glutamatergic neurons	TeExc_135
+145	235	Excitatory telencephalon	0.957	TeExc3	0.715	Telencephalon glutamatergic neurons	TeExc_145
+132	389	Excitatory telencephalon	0.995	TeExc4	0.841	Telencephalon glutamatergic neurons	TeExc_132
+146	223	Excitatory telencephalon	0.834	TeExc4	0.287	Telencephalon glutamatergic neurons	TeExc_146
+290	728	Excitatory telencephalon	0.349	DeChol3	0.154	Mixture	Mixture_290
+281	210	Monoaminergic	0.643	DeNeb1	0.362	Dopaminergic neurons	DeDopa_281
+176	207	Monoaminergic	0.937	DeMono1	0.353	Dopaminergic neurons	DeDopa_176
+175	440	Monoaminergic	0.750	MeDopa1	0.275	Dopaminergic neurons	MeDopa_175
+177	231	Monoaminergic	0.935	DeMono3	0.381	Dopaminergic neurons	DeDopa_177
+182	154	Peptidergic	0.734	DePep4	0.312	Diencephalon GABAergic neurons	DeInh_182
+181	226	Peptidergic	0.681	DePep4	0.164	Diencephalon GABAergic neurons	DeInh_181
+185	238	Peptidergic	0.971	DePep4	0.286	Diencephalon GABAergic neurons	DeInh_185
+187	199	Peptidergic	0.638	DePep6	0.216	Diencephalon GABAergic neurons	DeInh_187
+180	249	Peptidergic	0.823	DePep2	0.253	Peptidergic neurons	DePep_180
+186	262	Peptidergic	0.828	DePep8	0.256	Peptidergic neurons	DePep_186
+197	113	Choroid plexus epithelium	1.000	Chor3	0.752	Choroid plexus epithelial cells	ChorEpi_197
+214	222	Choroid plexus epithelium	0.851	Chor4	0.671	Choroid plexus epithelial cells	ChorEpi_214
+215	318	Choroid plexus epithelium	0.928	Chor1	0.613	Choroid plexus epithelial cells	ChorEpi_215
+308	569	Astrocytes	1.000	MRAstro1	0.974	Astrocytes	Ast_308
+309	333	Astrocytes	0.937	MRAstro1	0.883	Astrocytes	Ast_309
+216	208	Ependymal	0.990	DePigm1	0.683	Ependymal cells	Epen_216
+217	118	Ependymal	0.983	DePigm2	0.975	Ependymal cells	Epen_217
+222	336	Ependymal	0.997	DeHypen1	0.991	Ependymal cells	Epen_222
+219	577	Ependymal	1.000	DeHypen1	1.000	Ependymal cells	Epen_219
+221	450	Ependymal	1.000	DeHypen1	0.998	Ependymal cells	Epen_221
+223	112	Ependymal	1.000	ReEpen1	1.000	Ependymal cells	Epen_223
+252	196	Astrocytes	0.995	DeAstro1	0.801	Astrocytes	Ast_252
+261	668	Astrocytes	1.000	DMAstro1	0.641	Astrocytes	Ast_261
+238	193	Astrocytes	0.528	DeEpen1	0.187	Astrocytes	Ast_238
+263	265	Astrocytes	0.600	PeAstro2	0.238	Astrocytes	Ast_263
+258	308	Astrocytes	0.886	ReAstro1	0.244	Astrocytes	Ast_258
+253	303	Astrocytes	0.997	PeAstro2	0.881	Astrocytes	Ast_253
+254	1340	Astrocytes	0.985	PeAstro1	0.849	Astrocytes	Ast_254
+240	201	Astrocytes	0.985	PeAstro2	0.677	Astrocytes	Ast_240
+256	382	Astrocytes	0.921	PeAstro2	0.728	Astrocytes	Ast_256
+259	869	Astrocytes	0.965	MRAstro2	0.829	Astrocytes	Ast_259
+224	191	Astrocytes	0.995	PeAstroepen1	0.995	Astrocytes	Ast_224
+231	361	Astrocytes	0.992	DeAstroepen2	0.629	Astrocytes	Ast_231
+232	211	Astrocytes	0.953	DeAstroepen1	0.616	Astrocytes	Ast_232
+230	164	Ependymal	0.902	TeEpen1	0.457	Ependymal cells	Epen_230
+229	372	Ependymal	0.978	TeEpen1	0.519	Ependymal cells	Epen_229
+226	318	Ependymal	0.994	DeEpen4	0.918	Ependymal cells	Epen_226
+228	323	Ependymal	0.994	DeEpen4	0.960	Ependymal cells	Epen_228
+225	168	Ependymal	1.000	DeEpen5	0.661	Ependymal cells	Epen_225
+237	295	Ependymal	0.997	DMEpen1	0.475	Ependymal cells	Epen_237
+304	180	Ependymal	0.972	DMEpen1	0.433	Ependymal cells	Epen_304
+235	181	Ependymal	1.000	DMEpen1	1.000	Ependymal cells	Epen_235
+236	132	Ependymal	1.000	DMEpen1	0.659	Ependymal cells	Epen_236
+233	238	Ependymal	0.836	MREpen1	0.466	Ependymal cells	Epen_233
+305	877	Ependymal	0.537	DeHypen1	0.156	Ependymal cells	Epen_305
+301	4904	Erythrocytes	0.986	Erythro1	0.973	Erythrocytes	Erythrocytes_301
+297	131	Immune	0.847	Lympho1	0.267	Microglia	Microglia_297
+295	194	Immune	0.974	Micro1	0.670	Microglia	Microglia_295
+312	547	Immune	0.945	Micro1	0.910	Microglia	Microglia_312
+314	310	Immune	0.977	Micro1	0.910	Microglia	Microglia_314
+296	378	Immune	0.992	Micro1	0.923	Microglia	Microglia_296
+318	1440	Immune	1.000	Micro1	0.995	Microglia	Microglia_318
+321	524	Immune	0.998	Micro1	0.992	Microglia	Microglia_321
+2	263	Vascular	0.989	Vasc1	0.646	Vascular cells	Vasc_2
+5	158	Vascular	1.000	Vasc3	0.937	Vascular cells	Vasc_5
+6	230	Vascular	0.996	Vasc4	0.974	Vascular cells	Vasc_6
+3	383	Vascular	0.987	Vasc3	0.828	Vascular cells	Vasc_3
+4	131	Vascular	1.000	Vasc3	0.786	Vascular cells	Vasc_4
+37	121	Vascular	0.479	Vasc5	0.479	Vascular cells	Vasc_37
+15	644	Meningeal fibroblasts	0.969	Fibro2	0.561	Fibroblasts	Fibro_15
+27	1370	Meningeal fibroblasts	1.000	Fibro2	1.000	Fibroblasts	Fibro_27
+30	584	Meningeal fibroblasts	0.966	Fibro2	0.916	Fibroblasts	Fibro_30
+26	707	Meningeal fibroblasts	0.990	Fibro2	0.989	Fibroblasts	Fibro_26
+23	754	Meningeal fibroblasts	1.000	Fibro2	1.000	Fibroblasts	Fibro_23
+33	968	Meningeal fibroblasts	0.997	Fibro2	0.997	Fibroblasts	Fibro_33
+93	321	Meningeal fibroblasts	0.277	Fibro1	0.255	Mixture	Mixture_93
+58	285	Meningeal fibroblasts	1.000	Fibro3	0.551	Fibroblasts	Fibro_58
+59	616	Meningeal fibroblasts	0.977	Fibro1	0.942	Fibroblasts	Fibro_59
+66	226	Meningeal fibroblasts	0.982	Fibro1	0.973	Fibroblasts	Fibro_66
+67	374	Meningeal fibroblasts	0.989	Fibro1	0.840	Fibroblasts	Fibro_67
+64	215	Meningeal fibroblasts	0.981	Fibro3	0.888	Fibroblasts	Fibro_64
+70	665	Meningeal fibroblasts	0.995	Fibro1	0.995	Fibroblasts	Fibro_70
+83	466	Meningeal fibroblasts	0.996	Fibro1	0.996	Fibroblasts	Fibro_83
+61	256	Meningeal fibroblasts	0.988	Fibro1	0.953	Fibroblasts	Fibro_61
+62	1579	Meningeal fibroblasts	0.994	Fibro1	0.987	Fibroblasts	Fibro_62
+63	491	Meningeal fibroblasts	0.992	Fibro1	0.969	Fibroblasts	Fibro_63
+60	392	Meningeal fibroblasts	0.995	Fibro1	0.982	Fibroblasts	Fibro_60
+73	215	Meningeal fibroblasts	1.000	Fibro1	0.995	Fibroblasts	Fibro_73
+76	1077	Meningeal fibroblasts	0.992	Fibro1	0.987	Fibroblasts	Fibro_76
+78	1198	Meningeal fibroblasts	0.992	Fibro1	0.950	Fibroblasts	Fibro_78
+80	986	Meningeal fibroblasts	0.999	Fibro1	0.944	Fibroblasts	Fibro_80
+85	275	Meningeal fibroblasts	0.996	Fibro1	0.996	Fibroblasts	Fibro_85
+86	437	Meningeal fibroblasts	1.000	Fibro1	1.000	Fibroblasts	Fibro_86
+87	640	Meningeal fibroblasts	0.998	Fibro1	0.998	Fibroblasts	Fibro_87
+82	1267	Meningeal fibroblasts	0.998	Fibro1	0.998	Fibroblasts	Fibro_82
+89	1038	Meningeal fibroblasts	0.998	Fibro1	0.997	Fibroblasts	Fibro_89
+90	314	Meningeal fibroblasts	0.924	Fibro1	0.917	Fibroblasts	Fibro_90
+81	481	Meningeal fibroblasts	0.998	Fibro1	0.998	Fibroblasts	Fibro_81
+91	240	Meningeal fibroblasts	0.983	Fibro1	0.983	Fibroblasts	Fibro_91
