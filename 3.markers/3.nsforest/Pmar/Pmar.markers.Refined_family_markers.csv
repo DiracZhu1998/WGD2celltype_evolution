@@ -1,0 +1,23 @@
+clusterName,markerGene,score
+Astrocytes,MSTRG.12777,0.8226441773558226
+Astrocytes,MSTRG.20425,0.8226441773558226
+Choroid plexus epithelial cells,MSTRG.584,0.9081992938407218
+Choroid plexus epithelial cells,MSTRG.3759,0.9081992938407218
+Diencephalon GABAergic neurons,MSTRG.5898,0.43660009289363677
+Diencephalon glutamatergic neurons,MSTRG.16433,0.8732771034766509
+Dopaminergic neurons,MSTRG.9352,0.7244318181818182
+Ependymal cells,MSTRG.2347,0.6735312472140501
+Erythrocytes,MSTRG.942,0.858185563317213
+Fibroblasts,MSTRG.12974,0.9339832181638696
+Mesencephalon GABAergic neurons,MSTRG.7811,0.7508997709673901
+Mesencephalon glutamatergic neurons,MSTRG.322,0.623066345823307
+Microglia,MSTRG.7252,0.9550149573855619
+Peptidergic neurons,MSTRG.4578,0.5322687957418496
+Photoreceptor cells,MSTRG.10968,0.7464212678936605
+Photoreceptor cells,MSTRG.4804,0.7464212678936605
+Rhombencephalon GABAergic neurons,MSTRG.4892,0.6090487238979119
+Telencephalon GABAergic neurons,MSTRG.17344,0.809945839487937
+Telencephalon GABAergic neurons,MSTRG.18138,0.809945839487937
+Telencephalon glutamatergic neurons,MSTRG.6042,0.8420525378450578
+Vascular cells,MSTRG.14674,0.9183880113406238
+Vascular cells,MSTRG.4979,0.9183880113406238

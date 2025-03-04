@@ -1,0 +1,25 @@
+clusterName,markerGene,score
+Astrocytes,ASL,0.7453234956197041
+Choroid plexus epithelial cells,PMEL,0.8746246246246246
+Choroid plexus epithelial cells,MFRP,0.8746246246246246
+Diencephalon GABAergic neurons,ISL1,0.3982251179510222
+Diencephalon GABAergic neurons,PNOC,0.3982251179510222
+Diencephalon glutamatergic neurons,GNG8,0.46785835758285776
+Diencephalon neurons,TSHB,0.9207459207459208
+Ependymal cells,SSPO,0.944771516680684
+Immune cells,JCHAIN,0.6130997715156131
+Mesencephalon GABAergic neurons,GATA3,0.6604114472923492
+Mesencephalon glutamatergic neurons,POU4F2,0.39086635325721963
+Mesencephalon glutamatergic neurons,EBF3,0.39086635325721963
+Microglia,C1QA,0.9260378163207279
+Microglia,C1QC,0.9260378163207279
+Neural progenitor cells,MEX3A,0.5200823892893924
+Oligodendrocyte precursor cells,PDGFRA,0.8329193849278625
+Oligodendrocytes,ERMN,0.9154003653371339
+Rhombencephalon GABAergic neurons,SKOR1,0.8648881239242685
+Rhombencephalon GABAergic neurons,BHLHE22,0.8648881239242685
+Rhombencephalon glutamatergic neurons,LOC110073245,0.9206756595439894
+Rhombencephalon glutamatergic neurons,CBLN1,0.9206756595439894
+Telencephalon GABAergic neurons,LHX6,0.4146045608927705
+Telencephalon glutamatergic neurons,SLC17A7,0.5899675060926076
+Vascular cells,COL3A1,0.6306715063520871

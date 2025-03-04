@@ -1,0 +1,31 @@
+clusterName,markerGene,onTarget_per_gene,onTarget
+Astrocytes,Ntsr2,0.67093587,0.67093587
+Choroid plexus epithelial cells,Kcne2,0.9897888,0.9884875
+Choroid plexus epithelial cells,Slc4a5,0.98718613,0.9884875
+Diencephalon GABAergic neurons,Lhx8,0.1478971,0.1478971
+Diencephalon cholinergic neurons,Ntrk1,0.905294,0.86489767
+Diencephalon cholinergic neurons,Ngfr,0.887571,0.86489767
+Diencephalon cholinergic neurons,Lhx8,0.801828,0.86489767
+Diencephalon glutamatergic neurons,Synpo2,0.6130821,0.6004154
+Diencephalon glutamatergic neurons,Ptpn3,0.5877487,0.6004154
+Ependymal cells,Tmem212,0.99359536,0.98889244
+Ependymal cells,Ccdc153,0.98418945,0.98889244
+Immune cells,Pf4,0.9879075,0.9879075
+Mesencephalon GABAergic neurons,Sox14,0.8705546,0.8705546
+Mesencephalon cholinergic neurons,Slc6a3,0.7451366,0.7451366
+Mesencephalon glutamatergic neurons,Barhl1,0.71066713,0.71066713
+Microglia,Selplg,0.90561175,0.90561175
+Neuroblasts,Igfbpl1,0.8086209,0.8086209
+Olfactory ensheathing cells,Clca3a1,0.9129213,0.9129213
+Oligodendrocyte precursor cells,Neu4,0.84179974,0.8173171
+Oligodendrocyte precursor cells,Pdgfra,0.79283446,0.8173171
+Oligodendrocytes,Opalin,0.75993764,0.75993764
+Peptidergic neurons,Avp,0.8019574,0.72679013
+Peptidergic neurons,Otp,0.65162283,0.72679013
+Rhombencephalon GABAergic neurons,Slc6a5,0.73616135,0.73616135
+Rhombencephalon cholinergic neurons,Fev,0.7570558,0.74112993
+Rhombencephalon cholinergic neurons,Tph2,0.72520405,0.74112993
+Rhombencephalon glutamatergic neurons,Cbln3,0.7267802,0.7267802
+Telencephalon GABAergic neurons,Gpr88,0.47346368,0.47346368
+Telencephalon glutamatergic neurons,Slc17a7,0.58022183,0.58022183
+Vascular cells,Higd1b,0.9435888,0.9435888

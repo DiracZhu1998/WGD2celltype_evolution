@@ -1,0 +1,18 @@
+clusterName,onTarget
+Astrocytes,0.8481428485095114
+Choroid plexus epithelial cells,0.9226837181247749
+Diencephalon GABAergic neurons,0.6326900674022196
+Diencephalon glutamatergic neurons,0.6719068894835825
+Ependymal cells,0.9040611600284882
+Fibroblasts,0.9560770566139547
+Mesencephalon GABAergic neurons,0.40089670070620104
+Mesencephalon glutamatergic neurons,0.6382785612678417
+Microglia,0.9537072975870374
+Oligodendrocyte precursor cells,0.6329860011025006
+Oligodendrocytes,0.8183093236445699
+Rhombencephalon GABAergic neurons,0.7627311225663729
+Rhombencephalon glutamatergic neurons,0.7954802976194743
+Splatter,0.3979533723426572
+Telencephalon GABAergic neurons,0.6341332600591395
+Telencephalon glutamatergic neurons,0.5245716882177169
+Vascular cells,0.9115719215417193

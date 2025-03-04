@@ -1,0 +1,27 @@
+clusterName,markerGene,score
+Astrocytes,Hes5,0.6750450030002
+Choroid plexus epithelial cells,Otx2,0.7318141980718668
+Choroid plexus epithelial cells,Cab39l,0.7318141980718668
+Diencephalon GABAergic neurons,Lhx8,0.38642789820923656
+Diencephalon cholinergic neurons,Lhx8,0.7049891540130152
+Diencephalon cholinergic neurons,Nkx2-1,0.7049891540130152
+Diencephalon cholinergic neurons,Isl1,0.7049891540130152
+Diencephalon glutamatergic neurons,Shox2,0.537647488140129
+Ependymal cells,Foxj1,0.6817572997589071
+Mesencephalon GABAergic neurons,Sox14,0.6114825009830909
+Mesencephalon cholinergic neurons,En1,0.27225130890052357
+Mesencephalon glutamatergic neurons,Barhl1,0.44246239944036375
+Microglia,Spi1,0.8105820105820106
+Neuroblasts,Dlx2,0.45850646352723917
+Olfactory ensheathing cells,Alx3,0.5848670756646217
+Oligodendrocyte precursor cells,Gsx1,0.252212389380531
+Oligodendrocytes,Nkx6-2,0.8851103347631893
+Peptidergic neurons,Sim1,0.42391304347826086
+Peptidergic neurons,Otp,0.42391304347826086
+Rhombencephalon GABAergic neurons,Tfap2b,0.4333107650643196
+Rhombencephalon cholinergic neurons,Fev,0.6355140186915887
+Rhombencephalon glutamatergic neurons,Neurod1,0.6035787652719213
+Telencephalon GABAergic neurons,Npas1,0.4713906528239761
+Telencephalon glutamatergic neurons,Ddn,0.7787224557381225
+Telencephalon glutamatergic neurons,Neurod2,0.7787224557381225
+Vascular cells,Sox17,0.7056214356838961

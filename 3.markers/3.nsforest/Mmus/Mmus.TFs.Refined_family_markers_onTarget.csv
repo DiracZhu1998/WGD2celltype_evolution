@@ -1,0 +1,22 @@
+clusterName,onTarget
+Astrocytes,0.2698376
+Choroid plexus epithelial cells,0.45437157
+Diencephalon GABAergic neurons,0.14798626
+Diencephalon cholinergic neurons,0.7230091
+Diencephalon glutamatergic neurons,0.46697783
+Ependymal cells,0.7338349
+Mesencephalon GABAergic neurons,0.8705547
+Mesencephalon cholinergic neurons,0.46608323
+Mesencephalon glutamatergic neurons,0.71066713
+Microglia,0.95864296
+Neuroblasts,0.5078342
+Olfactory ensheathing cells,0.9309067
+Oligodendrocyte precursor cells,0.89123976
+Oligodendrocytes,0.7236175
+Peptidergic neurons,0.7060873
+Rhombencephalon GABAergic neurons,0.6798208
+Rhombencephalon cholinergic neurons,0.75705576
+Rhombencephalon glutamatergic neurons,0.48883885
+Telencephalon GABAergic neurons,0.43046007
+Telencephalon glutamatergic neurons,0.41236794
+Vascular cells,0.93801016

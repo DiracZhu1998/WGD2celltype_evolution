@@ -1,0 +1,24 @@
+clusterName,markerGene,score
+Astrocytes,SOX9,0.734606212547389
+Choroid plexus epithelial cells,LMX1A,0.38910505836575876
+Choroid plexus epithelial cells,MSX1,0.38910505836575876
+Diencephalon GABAergic neurons,ISL1,0.3648310387984981
+Diencephalon GABAergic neurons,DLX6,0.3648310387984981
+Diencephalon glutamatergic neurons,POU4F1,0.4018242918867019
+Diencephalon neurons,SIX1,0.7225913621262459
+Ependymal cells,SPDEF,0.8605208021550435
+Mesencephalon GABAergic neurons,GATA3,0.6612397491558129
+Mesencephalon glutamatergic neurons,POU4F2,0.39086635325721963
+Mesencephalon glutamatergic neurons,EBF3,0.39086635325721963
+Microglia,SPI1,0.7869428518587017
+Neural progenitor cells,TBR1,0.5264143874110153
+Neural progenitor cells,SOX4,0.5264143874110153
+Oligodendrocyte precursor cells,OLIG1,0.7624783351413359
+Oligodendrocyte precursor cells,SOX8,0.7624783351413359
+Oligodendrocytes,ERMN,0.9155106301820883
+Rhombencephalon GABAergic neurons,BHLHE22,0.743847874720358
+Rhombencephalon GABAergic neurons,TFAP2A,0.743847874720358
+Rhombencephalon glutamatergic neurons,BARHL1,0.5775832475111569
+Telencephalon GABAergic neurons,LHX6,0.4146045608927705
+Telencephalon glutamatergic neurons,NEUROD6,0.5657453075763803
+Vascular cells,TBX18,0.5717255717255717
