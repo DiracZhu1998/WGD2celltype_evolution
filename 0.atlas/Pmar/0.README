@@ -1,1 +1,5 @@
-
+The Seurat objects are downloaded from website: 
+https://downloads.kaessmannlab.org/lamprey/
+Pay attention we only used adult datasets,
+Using merge_lamprey_allRDS.ipynb, I merge these adult atlases to get one Seurat object and convert to scanpy object
+PMZ- genes in Seurat version were replaced to PMZ_ in scanpy object during the conversion from Seurat to scanpy by replace_hyphens_underscores.py
