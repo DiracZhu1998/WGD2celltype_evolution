@@ -1,0 +1,27 @@
+cell	OR
+acinar cell	1.42295582466314
+alveolar adventitial fibroblast	1.8214904949181
+alveolar type 1 fibroblast cell	2.73543949390143
+bronchial goblet cell	1.31225406365704
+bronchus fibroblast of lung	1.63753022984513
+capillary endothelial cell	2.65905144963968
+ciliated columnar cell of tracheobronchial tree	0.621759359260883
+club cell	1.5020044831451
+endothelial cell of lymphatic vessel	2.62027637976627
+epithelial cell of alveolus of lung	1.8251841503683
+epithelial cell of lower respiratory tract	1.68720214942702
+lung pericyte	2.56006066227158
+multi-ciliated epithelial cell	0.601205550968418
+myofibroblast cell	2.00291245502827
+nasal mucosa goblet cell	1.62274288782515
+pulmonary alveolar type 1 cell	2.39311664545985
+pulmonary alveolar type 2 cell	0.953685074643818
+pulmonary artery endothelial cell	2.76682921917256
+respiratory basal cell	0.76140474899803
+respiratory hillock cell	0.797499171672645
+serous secreting cell	0.888302391583362
+smooth muscle cell	1.73470241145655
+tracheobronchial goblet cell	2.06564073603464
+tracheobronchial serous cell	0.883879897183855
+tracheobronchial smooth muscle cell	2.38343138825651
+vein endothelial cell	2.26403684513529

@@ -1,0 +1,5 @@
+ohnologs	non-ohnologs
+DEGs	2172	5185
+non-DEGs	2868	9455
+p-value < 2.2e-16
+OR = 1.38099926162934

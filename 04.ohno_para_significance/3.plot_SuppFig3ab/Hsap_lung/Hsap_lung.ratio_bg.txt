@@ -1,0 +1,3 @@
+ohnologs	0.26
+SSDparalogs	0.35
+paralogs	0.6

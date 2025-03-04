@@ -1,0 +1,19 @@
+INFO [2025-01-30 22:09:47] $x
+INFO [2025-01-30 22:09:47] list(set1 = stats_for_chi2[stats_for_chi2$DEG, "gene"], set2 = stats_for_chi2[stats_for_chi2$ohnolog, 
+INFO [2025-01-30 22:09:47]     "gene"])
+INFO [2025-01-30 22:09:47] 
+INFO [2025-01-30 22:09:47] $category.names
+INFO [2025-01-30 22:09:47] c("DEG", "ohnologs")
+INFO [2025-01-30 22:09:47] 
+INFO [2025-01-30 22:09:47] $filename
+INFO [2025-01-30 22:09:47] paste0(args$out, "/", species, ".DEG_ohnologs.Venn.png")
+INFO [2025-01-30 22:09:47] 
+INFO [2025-01-30 22:09:47] $col
+INFO [2025-01-30 22:09:47] c("#440154ff", "#21908dff")
+INFO [2025-01-30 22:09:47] 
+INFO [2025-01-30 22:09:47] $fill
+INFO [2025-01-30 22:09:47] c(alpha("#440154ff", 0.3), alpha("#21908dff", 0.3))
+INFO [2025-01-30 22:09:47] 
+INFO [2025-01-30 22:09:47] $output
+INFO [2025-01-30 22:09:47] [1] TRUE
+INFO [2025-01-30 22:09:47] 

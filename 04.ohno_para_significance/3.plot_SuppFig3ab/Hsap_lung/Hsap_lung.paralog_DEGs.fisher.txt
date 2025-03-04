@@ -1,0 +1,5 @@
+paralogs	non-paralogs
+DEGs	4371	2986
+non-DEGs	7462	4861
+p-value = 0.1142
+OR = 0.953589322314103

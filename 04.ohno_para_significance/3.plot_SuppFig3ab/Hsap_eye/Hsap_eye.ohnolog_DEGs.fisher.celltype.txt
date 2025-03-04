@@ -1,0 +1,19 @@
+cell	OR
+GABAergic amacrine cell	2.03559215502456
+H1 horizontal cell	2.4866378136255
+H2 horizontal cell	2.33351992660665
+Mueller cell	2.02564704035482
+S cone cell	1.50104853205512
+amacrine cell	2.73941450843028
+astrocyte	1.85345478397545
+glycinergic amacrine cell	2.71693325177303
+microglial cell	0.658865106354604
+midget ganglion cell of retina	1.12420482874846
+parasol ganglion cell of retina	1.28317617309821
+retinal bipolar neuron	2.95544511571845
+retinal cone cell	2.04788732394366
+retinal ganglion cell	1.20343948594309
+retinal pigment epithelial cell	1.67756156736658
+retinal rod cell	1.79726478409523
+rod bipolar cell	1.73120498916849
+starburst amacrine cell	3.10114297172649

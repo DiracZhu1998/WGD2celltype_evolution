@@ -1,0 +1,19 @@
+INFO [2025-01-30 22:10:09] $x
+INFO [2025-01-30 22:10:09] list(set1 = stats_for_chi2[stats_for_chi2$DEG, "gene"], set2 = stats_for_chi2[stats_for_chi2$paralog, 
+INFO [2025-01-30 22:10:09]     "gene"])
+INFO [2025-01-30 22:10:09] 
+INFO [2025-01-30 22:10:09] $category.names
+INFO [2025-01-30 22:10:09] c("DEG", "SSD paralogs")
+INFO [2025-01-30 22:10:09] 
+INFO [2025-01-30 22:10:09] $filename
+INFO [2025-01-30 22:10:09] paste0(args$out, "/", species, ".DEG_SSDparalog.Venn.png")
+INFO [2025-01-30 22:10:09] 
+INFO [2025-01-30 22:10:09] $col
+INFO [2025-01-30 22:10:09] c("#440154ff", "#21908dff")
+INFO [2025-01-30 22:10:09] 
+INFO [2025-01-30 22:10:09] $fill
+INFO [2025-01-30 22:10:09] c(alpha("#440154ff", 0.3), alpha("#21908dff", 0.3))
+INFO [2025-01-30 22:10:09] 
+INFO [2025-01-30 22:10:09] $output
+INFO [2025-01-30 22:10:09] [1] TRUE
+INFO [2025-01-30 22:10:09] 

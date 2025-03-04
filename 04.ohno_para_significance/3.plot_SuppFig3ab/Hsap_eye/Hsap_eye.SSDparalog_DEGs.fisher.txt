@@ -1,0 +1,5 @@
+non-oh paralogs	others
+DEGs	2734	6544
+non-DEGs	4159	6243
+p-value < 2.2e-16
+OR = 0.627132971121632
