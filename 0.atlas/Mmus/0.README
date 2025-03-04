@@ -1,1 +1,40 @@
+data downloaded from:
+http://mousebrain.org/adolescent/downloads.html
+
+loom to h5ad:
+https://cellgeni.readthedocs.io/en/0.0.1/visualisations.html#loom-h5ad
+
+using step1 script to transfer data from loom to h5ad, 
+subset data only limit to brain tissue, and subset to contain only 100k cells with seed 42 
+
+## selected tissues:
+Amygd   Amygdala    Y
+CA1 Hippocampus Y
+CB  Cerebellum  Y
+Ctx1    Cortex1 Y
+Ctx1.5  Cortex2 Y
+Ctx2    Cortex2 Y
+Ctx3    Cortex3 Y
+DRG DRG N (dorsal root ganglia)
+DentGyr Hippocampus Y
+ENS Enteric N
+HC  Hippocampus Y
+Hypoth  Hypothalamus    Y
+MBd MidbrainDorsal  Y
+MBv MidbrainVentral Y
+Medulla Medulla Y
+OB  Olfactory   Y
+Pons    Pons    N (in my old version, Y)
+SC  SpinalCord  N
+SScortex    Cortex2 Y
+StriatDor   StriatumDorsal  Y
+StriatVent  StriatumVentral Y
+Sympath Sympathetic N (in my old version, Y)
+Thal    Thalamus    Y
+
+# only protein coding genes were retained
+# pay attention, some gene names are slightly different from in Ensembl-gene name table, modified them
+generate matrix for Seurat construction
+
+gzip matrix_files/*
 
