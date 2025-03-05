@@ -1,6 +1,1 @@
-s1.get_matrix_expression_data_and_pct_data.ipynb: was used to get exp and pct mtx data
-s2.check_dominant_within_species_paralogs.R: was used to investigate the number of families with domiant copy and plot boxplot
-using for example:
-nohup Rscript  s2.check_dominant_within_species_paralogs.R  -I 0.bin/Pmar_pct.rds  -P1 /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/03.paralog_inferring/Pmar.paralogs.txt -P2 /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/03.ohnolog_identification/Ohnologs-v2.0/7_FilterOhnologs/Pmar.ohnologs.txt  -L Pmar.pct -O ./Pmar/pct/ &
-s3.plot_dominate_expression_frequency_for_individual_species.by_Friedman.ipynb: was used to plot the number of family containing significant copy, and plot number of family with dominant copy
-s4.plot_dominant_expression_across_species.ipynb: was used to measure whether the dominant copies are conserved across species
+For main figure 3
