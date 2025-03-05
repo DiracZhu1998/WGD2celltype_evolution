@@ -1,0 +1,8 @@
+This folder is for Fig3 sub vs neo:
+
+s1.get_combined_SSD_WGD_pairs.ipynb: combine all WGD and SSD pairs into one rds
+s1 use Trinarization_score to define whether a gene is expressed at certain domain (cell type family)
+nohup Rscript s1.get_expression_domain_Triscore.R -I /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Mmus.wb.iter_cluster_annotated.rds -S Mmus &
+s2.get_vertebrate_ancestral_states_and_check_sub_neo.ipynb: calculate number of changes and changes per copy for each gene family (orthogroup) to determine sub vs neo.
+s3.calculate_divergence_across_species.ipynb: was used to calculate and plot expression divergence across species for each orthogroups (gene family).
+s4.paralog_switching_calculation.updated.ipynb: was used to calculate paralog-switching and using orthologs at cell type families level, results are not shown in the paper. 
