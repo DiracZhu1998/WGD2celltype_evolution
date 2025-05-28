@@ -3,3 +3,5 @@
 # use SAMapxx.py to do SAMap
 # the Refined annotation folder contains annotation based on manual annotation
 # using extract_important_information.v2.py to extract integrated UMAP, mapping scores, and save the final pkl file
+
+# please contact corresponding authors for SAMap objects, including vertebrate_neurons.pkl and vertebrate_non_neurons.pkl 

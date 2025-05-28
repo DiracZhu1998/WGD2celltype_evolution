@@ -114,3 +114,6 @@ iter.result <- iter_clust(norm.dat,
 # then get top reference labelling for Supp. Table 2
 Rscript get_top_reference_for_atlas_iterative_clustering.R
 
+The folders of Hsap, Mmus, Pvit, and Pmar were intermediate stage. 
+Based on these files, marker expression pattern, cell percentage from labellings of reference paper, 
+dissection information, and downstream SAMap analysis, I generate Supp. Table 2.
