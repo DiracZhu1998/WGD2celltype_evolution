@@ -1,4 +1,4 @@
-run SAM with different parameter combinations to find best clustering for individual atlas
+# run SAM with different parameter combinations to find good atlas for individual species.
 
 python generate_run.py Hsap /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Hsap.wb.h5ad Hsap
 python generate_run.py Hsap_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Hsap.neurons.h5ad  Hsap_neurons
