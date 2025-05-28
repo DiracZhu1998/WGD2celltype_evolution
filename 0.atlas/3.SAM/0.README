@@ -1,18 +1,1 @@
-# run SAM with different parameter combinations to find good atlas for individual species.
-
-python generate_run.py Hsap /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Hsap.wb.h5ad Hsap
-python generate_run.py Hsap_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Hsap.neurons.h5ad  Hsap_neurons
-python generate_run.py Hsap_non_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Hsap.non_neurons.h5ad  Hsap_non_neurons
-
-
-python generate_run.py Mmus /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Mmus.wb.h5ad Mmus
-python generate_run.py Mmus_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Mmus.neurons.h5ad  Mmus_neurons
-python generate_run.py Mmus_non_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Mmus.non_neurons.h5ad  Mmus_non_neurons
-
-python generate_run.py Pvit /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Pvit.wb.h5ad Pvit
-python generate_run.py Pvit_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Pvit.neurons.h5ad  Pvit_neurons
-python generate_run.py Pvit_non_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Pvit.non_neurons.h5ad  Pvit_non_neurons
-
-python generate_run.py Pmar /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Pmar.wb.h5ad Pmar
-python generate_run.py Pmar_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Pmar.neurons.h5ad  Pmar_neurons
-python generate_run.py Pmar_non_neurons /data/biol-brain-scSEQ/ball6395/05.SAMap_comparison/0.bin/02.atlas/Pmar.non_neurons.h5ad  Pmar_non_neurons
+Please contact corresponding authors for SAM preprocess atlases
