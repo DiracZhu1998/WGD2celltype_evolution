@@ -4,3 +4,5 @@ This is for the final version of atlases and information
 for i in *h5ad ; do echo nohup Rscript s2.convert_scanpy_to_seurat.R  -I $i -O $(basename $i .h5ad).rds \& ; done
 3). script s3 was used to generate a 1-1-1 ortholog amniotes atlas or 1-1-1-1 ortholog veterbrate atlas
 4). script s4 was used to generate meta-gene (orthogroup level) seurat object for amniotes and vertebrates
+
+Please contact corresponding authors for fully processed atlases at scanpy and seurat format.
