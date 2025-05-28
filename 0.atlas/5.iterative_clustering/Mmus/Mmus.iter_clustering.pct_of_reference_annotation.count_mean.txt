@@ -1,0 +1,168 @@
+Cluster	Cell number	Major labelling of reference	%Major labelling of reference	subtype labelling of reference	%subtype labelling of reference
+55	283	Cerebellum neurons	0.957597173144876	CBGRC	0.950530035335689
+84	439	Cerebellum neurons	1	CBINH1	0.883826879271071
+89	313	Cerebellum neurons	0.87220447284345	CBINH1	0.693290734824281
+289	120	Glutamatergic neuroblasts	1	OBNBL2	0.966666666666667
+67	463	Olfactory inhibitory neurons	0.958963282937365	OBDOP1	0.714902807775378
+68	1060	Olfactory inhibitory neurons	0.990566037735849	OBNBL5	0.788679245283019
+81	399	Olfactory inhibitory neurons	0.992481203007519	OBINH4	0.992481203007519
+57	858	Olfactory inhibitory neurons	0.923076923076923	OBINH2	0.688811188811189
+75	6307	Cerebellum neurons	0.60488346281909	CBGRC	0.588710956080545
+56	260	Di- and mesencephalon excitatory neurons	0.653846153846154	CR	0.634615384615385
+33	2445	Non-glutamatergic neuroblasts	0.987321063394683	OBNBL3	0.851124744376278
+74	286	Cerebellum neurons	0.734265734265734	CBNBL2	0.601398601398601
+1	222	Non-glutamatergic neuroblasts	0.783783783783784	DGNBL2	0.779279279279279
+51	1284	Non-glutamatergic neuroblasts	0.975077881619938	DGNBL2	0.88785046728972
+114	204	Dentate gyrus granule neurons	0.75	DGGRC1	0.593137254901961
+111	3267	Dentate gyrus granule neurons	0.981022344658708	DGGRC2	0.884909703091521
+112	895	Dentate gyrus granule neurons	0.940782122905028	DGGRC1	0.497206703910615
+19	239	Telencephalon projecting inhibitory neurons	0.799163179916318	MSN6	0.619246861924686
+64	311	Telencephalon projecting inhibitory neurons	0.816720257234727	MSN6	0.778135048231511
+26	335	Telencephalon projecting inhibitory neurons	0.997014925373134	MSN5	0.961194029850746
+27	2490	Telencephalon projecting inhibitory neurons	0.992771084337349	MSN4	0.613654618473896
+28	2302	Telencephalon projecting inhibitory neurons	0.998262380538662	MSN3	0.520417028670721
+109	762	Telencephalon projecting excitatory neurons	0.981627296587926	TEGLU4	0.219160104986877
+91	183	Telencephalon projecting excitatory neurons	1	TEGLU24	0.934426229508197
+174	340	Telencephalon projecting excitatory neurons	1	TEGLU8	0.994117647058824
+122	147	Telencephalon projecting excitatory neurons	0.993197278911565	TEGLU1	0.938775510204082
+127	214	Telencephalon projecting excitatory neurons	0.985981308411215	TEGLU1	0.948598130841122
+153	299	Telencephalon projecting excitatory neurons	0.993311036789298	TEGLU2	0.765886287625418
+152	510	Telencephalon projecting excitatory neurons	1	TEGLU3	0.994117647058824
+123	395	Telencephalon projecting excitatory neurons	1	TEGLU3	0.881012658227848
+155	1731	Telencephalon projecting excitatory neurons	1	TEGLU3	0.989601386481802
+172	283	Telencephalon projecting excitatory neurons	0.996466431095406	TEGLU12	0.989399293286219
+158	155	Telencephalon projecting excitatory neurons	1	TEGLU15	0.929032258064516
+125	504	Telencephalon projecting excitatory neurons	0.968253968253968	TEGLU6	0.916666666666667
+159	147	Telencephalon projecting excitatory neurons	1	TEGLU13	0.768707482993197
+160	140	Telencephalon projecting excitatory neurons	0.985714285714286	TEGLU5	0.771428571428571
+169	491	Telencephalon projecting excitatory neurons	1	TEGLU4	0.967413441955194
+117	956	Telencephalon projecting excitatory neurons	0.952928870292887	TEGLU22	0.332635983263598
+163	597	Telencephalon projecting excitatory neurons	1	TEGLU22	0.777219430485762
+165	666	Telencephalon projecting excitatory neurons	0.995495495495496	TEGLU17	0.75975975975976
+167	685	Telencephalon projecting excitatory neurons	0.995620437956204	TEGLU18	0.776642335766423
+124	1326	Telencephalon projecting excitatory neurons	0.998491704374057	TEGLU8	0.953996983408748
+191	1031	Telencephalon projecting excitatory neurons	0.998060135790495	TEGLU8	0.837051406401552
+173	364	Telencephalon projecting excitatory neurons	1	TEGLU8	0.947802197802198
+177	2246	Telencephalon projecting excitatory neurons	0.9986642920748	TEGLU7	0.934105075690116
+171	115	Telencephalon projecting excitatory neurons	1	TEGLU21	0.582608695652174
+170	866	Telencephalon projecting excitatory neurons	1	TEGLU10	0.806004618937644
+186	1115	Telencephalon projecting excitatory neurons	0.997309417040359	TEGLU11	0.925560538116592
+189	230	Telencephalon projecting excitatory neurons	0.995652173913044	TEGLU11	0.921739130434783
+162	162	Telencephalon projecting excitatory neurons	1	TEGLU22	0.975308641975309
+118	1767	Telencephalon projecting excitatory neurons	1	TEGLU24	0.987549518958687
+200	335	Telencephalon projecting excitatory neurons	1	TEGLU23	0.940298507462687
+309	135	Di- and mesencephalon excitatory neurons	1	DECHO2	1
+311	148	Peptidergic neurons	1	HYPEP5	0.709459459459459
+310	240	Peptidergic neurons	0.9125	DEINH8	0.216666666666667
+60	253	Peptidergic neurons	0.988142292490119	DEINH7	0.577075098814229
+338	169	Di- and mesencephalon excitatory neurons	0.343195266272189	DEGLU3	0.0828402366863905
+87	297	Di- and mesencephalon excitatory neurons	0.397306397306397	DEGLU3	0.063973063973064
+88	183	Telencephalon inhibitory interneurons	0.704918032786885	TEINH17	0.513661202185792
+86	289	Telencephalon inhibitory interneurons	0.986159169550173	TEINH15	0.470588235294118
+316	220	Telencephalon inhibitory interneurons	1	TEINH16	0.581818181818182
+263	1252	Telencephalon inhibitory interneurons	0.998402555910543	TEINH15	0.652555910543131
+264	348	Telencephalon inhibitory interneurons	1	TEINH16	0.982758620689655
+313	174	Telencephalon inhibitory interneurons	1	TEINH9	0.551724137931034
+213	212	Telencephalon inhibitory interneurons	1	TEINH10	0.570754716981132
+262	560	Telencephalon inhibitory interneurons	1	TEINH10	0.514285714285714
+261	177	Telencephalon inhibitory interneurons	1	TEINH11	0.819209039548023
+215	314	Telencephalon inhibitory interneurons	1	TEINH12	0.796178343949045
+214	237	Telencephalon inhibitory interneurons	1	TEINH11	0.987341772151899
+260	207	Telencephalon inhibitory interneurons	1	TEINH11	0.739130434782609
+315	137	Telencephalon inhibitory interneurons	1	TEINH7	0.423357664233577
+257	350	Telencephalon inhibitory interneurons	0.994285714285714	TEINH13	0.305714285714286
+320	189	Telencephalon inhibitory interneurons	0.994708994708995	TEINH6	0.53968253968254
+322	288	Telencephalon inhibitory interneurons	1	TEINH5	0.822916666666667
+323	273	Telencephalon inhibitory interneurons	1	TEINH4	0.802197802197802
+254	321	Telencephalon inhibitory interneurons	1	TEINH21	0.937694704049844
+212	482	Telencephalon inhibitory interneurons	1	TEINH19	0.962655601659751
+253	314	Telencephalon inhibitory interneurons	1	TEINH19	1
+336	484	Telencephalon inhibitory interneurons	0.964876033057851	TEINH19	0.330578512396694
+211	416	Telencephalon inhibitory interneurons	0.961538461538462	TEINH17	0.75
+256	370	Telencephalon inhibitory interneurons	0.997297297297297	TEINH18	0.872972972972973
+244	749	Di- and mesencephalon excitatory neurons	1	DEGLU3	0.970627503337784
+245	202	Di- and mesencephalon excitatory neurons	1	DEGLU3	0.866336633663366
+246	225	Di- and mesencephalon excitatory neurons	1	DEGLU2	0.964444444444444
+247	1067	Di- and mesencephalon excitatory neurons	1	DEGLU1	0.907216494845361
+265	925	Di- and mesencephalon inhibitory neurons	0.997837837837838	MEINH10	0.792432432432432
+328	186	Di- and mesencephalon inhibitory neurons	1	MEINH9	0.89247311827957
+337	247	Olfactory inhibitory neurons	0.238866396761134	OBINH2	0.125506072874494
+273	249	Di- and mesencephalon excitatory neurons	0.542168674698795	OBNBL1	0.253012048192771
+329	153	Glutamatergic neuroblasts	0.92156862745098	SEPNBL	0.503267973856209
+269	309	Telencephalon inhibitory interneurons	1	DEINH1	0.644012944983819
+270	994	Peptidergic neurons	0.916498993963783	TEINH2	0.908450704225352
+271	379	Di- and mesencephalon excitatory neurons	0.997361477572559	MEGLU5	0.445910290237467
+275	207	Di- and mesencephalon excitatory neurons	0.995169082125604	MEGLU11	0.768115942028985
+276	759	Di- and mesencephalon excitatory neurons	0.910408432147563	MEGLU10	0.274044795783926
+277	667	Di- and mesencephalon excitatory neurons	0.979010494752624	MEGLU8	0.280359820089955
+63	3002	Peptidergic neurons	0.26215856095936	TEINH2	0.0986009327115256
+210	231	Di- and mesencephalon inhibitory neurons	0.70995670995671	TEINH1	0.329004329004329
+280	1048	Di- and mesencephalon inhibitory neurons	0.645038167938931	TEINH1	0.218511450381679
+278	781	Di- and mesencephalon inhibitory neurons	0.878361075544174	MEINH2	0.36235595390525
+287	478	Di- and mesencephalon excitatory neurons	0.947698744769874	DEGLU5	0.472803347280335
+268	264	Hindbrain neurons	0.753787878787879	HBGLU6	0.295454545454545
+266	460	Di- and mesencephalon excitatory neurons	0.530434782608696	HBGLU2	0.271739130434783
+267	366	Di- and mesencephalon inhibitory neurons	0.42896174863388	HBINH5	0.426229508196721
+208	117	Cholinergic and monoaminergic neurons	1	DECHO1	0.623931623931624
+209	262	Cholinergic and monoaminergic neurons	0.893129770992366	HBCHO3	0.213740458015267
+272	303	Cholinergic and monoaminergic neurons	0.613861386138614	MBDOP2	0.128712871287129
+395	2189	Microglia	1	MGL1	0.935587026039287
+404	2402	Microglia	1	MGL2	0.590757701915071
+407	404	Perivascular macrophages	1	PVM2	0.893564356435644
+406	692	Perivascular macrophages	0.998554913294798	PVM1	0.908959537572254
+409	707	Perivascular macrophages	1	PVM1	0.775106082036775
+457	129	Vascular and leptomeningeal cells	1	ABC	0.992248062015504
+460	485	Vascular and leptomeningeal cells	0.991752577319588	VLMC1	0.934020618556701
+461	202	Vascular and leptomeningeal cells	1	VLMC1	0.856435643564356
+458	283	Vascular and leptomeningeal cells	1	VLMC2	0.996466431095406
+459	270	Vascular and leptomeningeal cells	1	VLMC2	0.988888888888889
+421	396	Pericytes	0.368686868686869	PER1	0.356060606060606
+424	207	Pericytes	0.946859903381642	PER1	0.946859903381642
+417	1441	Vascular endothelial cells	0.918806384455239	VECV	0.870229007633588
+419	457	Pericytes	0.978118161925602	PER2	0.579868708971554
+426	3066	Pericytes	0.964122635355512	PER1	0.926288323548597
+412	340	Vascular endothelial cells	0.979411764705882	VECC	0.897058823529412
+413	367	Vascular endothelial cells	0.991825613079019	VECC	0.991825613079019
+450	282	Vascular smooth muscle cells	0.762411347517731	PER3	0.726950354609929
+452	749	Vascular smooth muscle cells	0.994659546061415	VSMCA	0.985313751668892
+456	304	Vascular smooth muscle cells	1	VSMCA	0.996710526315789
+392	719	Oligodendrocytes	0.998609179415855	COP1	0.528511821974965
+356	343	Oligodendrocytes	1	NFOL1	0.644314868804665
+341	157	Oligodendrocytes	1	NFOL1	1
+359	722	Oligodendrocytes	1	NFOL1	0.973684210526316
+382	669	Oligodendrocytes	1	MFOL2	0.710014947683109
+375	2597	Oligodendrocytes	1	MOL1	0.542549095109742
+384	727	Oligodendrocytes	1	MFOL2	0.724896836313618
+366	879	Oligodendrocytes	1	MOL3	0.555176336746303
+370	856	Oligodendrocytes	0.998831775700935	MOL1	0.578271028037383
+367	500	Oligodendrocytes	1	MOL2	0.676
+378	8007	Oligodendrocytes	1	MOL2	0.496065942300487
+372	509	Oligodendrocytes	1	MOL1	0.899803536345776
+373	627	Oligodendrocytes	1	MOL1	0.61244019138756
+380	229	Oligodendrocytes	1	MFOL1	0.947598253275109
+364	736	Oligodendrocytes	1	MOL2	0.99320652173913
+361	2458	Oligodendrocytes	1	MFOL1	0.573230268510985
+365	256	Oligodendrocytes	1	MOL2	0.55859375
+388	396	Oligodendrocytes	0.95959595959596	COP1	0.957070707070707
+389	553	Oligodendrocytes	1	COP1	0.951175406871609
+474	499	Oligodendrocyte precursor cells	0.929859719438878	OPC	0.929859719438878
+475	231	Oligodendrocyte precursor cells	0.965367965367965	OPC	0.965367965367965
+465	289	Olfactory ensheathing cells	1	OEC	1
+470	270	Olfactory ensheathing cells	1	OEC	1
+471	1439	Olfactory ensheathing cells	0.995135510771369	OEC	0.995135510771369
+477	505	Non-glutamatergic neuroblasts	0.998019801980198	SZNBL	0.992079207920792
+479	264	Non-glutamatergic neuroblasts	0.670454545454545	SZNBL	0.473484848484849
+497	927	Astrocytes	0.994606256742179	ACBG	0.990291262135922
+495	571	Subventricular zone radial glia-like cells	0.831873905429072	RGSZ	0.831873905429072
+496	327	Dentate gyrus radial glia-like cells	0.807339449541284	RGDG	0.807339449541284
+482	783	Astrocytes	1	ACMB	0.96551724137931
+504	1001	Astrocytes	0.983016983016983	ACOB	0.936063936063936
+505	435	Astrocytes	0.995402298850575	ACOB	0.990804597701149
+498	7998	Astrocytes	0.987496874218555	ACNT1	0.666041510377594
+506	1457	Astrocytes	0.978037062457104	ACTE1	0.862045298558682
+507	4309	Astrocytes	0.970526804362961	ACTE2	0.829890925968902
+509	1284	Astrocytes	0.92601246105919	ACTE1	0.802959501557632
+431	413	Choroid epithelial cells	1	CHOR	1
+463	122	Subcommissural organ hypendymal cells	0.868852459016393	HYPEN	0.868852459016393
+339	413	Ependymal cells	0.961259079903148	EPEN	0.951573849878935
+462	270	Ependymal cells	0.988888888888889	EPEN	0.948148148148148

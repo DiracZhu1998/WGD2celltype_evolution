@@ -1,4 +1,5 @@
-
+# the origin code was from https://matthieuxmoreau.github.io/EarlyPallialNeurogenesis/
+# then I made some modifications and new functions
 #############################################################################
 ##### This function takes a list of markers and a Seurat v2.3.4 object ######
 ##### and return a dotplot of the markers expression across clusters   ######
