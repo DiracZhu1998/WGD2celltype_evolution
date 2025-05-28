@@ -1,1 +1,4 @@
 
+Please check Supp. Table 8 for genome and annotation version used in this research
+The transcript with the longest CDS was retained for each gene (gtf files)
+Then CDS was extracted and translated into proteins (cds and pep files)
