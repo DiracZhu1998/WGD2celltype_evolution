@@ -1,0 +1,17 @@
+ranking data downloaded from:
+https://resources.aertslab.org/cistarget/databases/old/mus_musculus/mm9/refseq_r45/mc9nr/gene_based/
+
+# Ensembl ID was downloaded from Ensembl Biomart with latest version
+# Due to different version of gene ID, all of the genes were converted into Ensembl version
+# step 0: remove some lines in Ensembl ID labelling, some genes synonym conflict with other genes' name
+# For example Atf7 gene, therefore this kind of gene synonyms were replaced by its Ensembl ID (ignored in replacement)
+/home/zoo/ball6395/software/miniconda3/envs/scenicpy/bin/python3 s0.modify_info_file.py
+
+# step 1: change genes to Ensembl ID in ranking feather files
+/home/zoo/ball6395/software/miniconda3/envs/sc/bin/Rscript s1.convert_feather2consensusEnsembl.R
+# step 1b: subset cell atlas information based on different way
+/home/zoo/ball6395/software/miniconda3/envs/sc/bin/Rscript s1b.subset_exp_info.R ../2.default_500perCluster
+
+# step2: rename TF gene name and TF-motif file gene name to Ensembl version
+/home/zoo/ball6395/software/miniconda3/envs/scenicpy/bin/python3 s2.changeTFname.py
+/home/zoo/ball6395/software/miniconda3/envs/scenicpy/bin/python3 s2.change_motif_name.py > Ensembl.motifs-v9-nr.hgnc-m0.001-o0.0.tbl
