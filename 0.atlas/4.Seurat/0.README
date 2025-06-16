@@ -5,4 +5,3 @@ for i in ../1.SAM/*h5ad; do echo nohup Rscript convert_scanpy_to_seurat.R -I $i 
 https://github.com/satijalab/seurat/issues/8187
 
 These Seurat objects were then pipe to iterative clustering and annotation steps.
-Please contack the corresponding authors for processed Seurat atlases
