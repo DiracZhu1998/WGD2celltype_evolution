@@ -1,0 +1,7 @@
+Most of single-cell analyses were performed using enviroment R43.yml and scpy39.yml
+Iterativel clustering was performed under the enviroment of R42.yml
+SAMalg and SAMap was performed under the enviroment of SAMap.yml
+Orthogroup analysis was performed under the enviroment of WGD.yml
+Gene and TFs ranking by nsforest was performed under the enviroment of nsforest.yml
+
+All software and packages are easy to install by Conda or Mamba and version information are stored in yml files.
