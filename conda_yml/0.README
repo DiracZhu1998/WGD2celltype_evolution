@@ -1,8 +1,8 @@
-Most of single-cell analyses were performed using enviroment R43.yml and scpy39.yml
-Iterativel clustering was performed under the enviroment of R42.yml
-SAMalg and SAMap was performed under the enviroment of SAMap.yml
-Orthogroup analysis was performed under the enviroment of WGD.yml
-Gene and TFs ranking by nsforest was performed under the enviroment of nsforest.yml
-Pyscenic was performed with scenicpy enviroment.
+Most single-cell analyses were performed using the environments defined in R43.yml and scpy39.yml.
+Iterative clustering was conducted using the R42.yml environment.
+SAMalg and SAMap analyses were run under the SAMap.yml environment.
+Orthogroup analysis was performed using the WGD.yml environment.
+Gene and transcription factor ranking with nsforest was carried out in the nsforest.yml environment.
+pySCENIC analysis was performed using the scenicpy environment.
 
-All software and packages are easy to install by Conda or Mamba and version information are stored in yml files.
+All software dependencies and packages can be easily installed using Conda or Mamba, with full version information documented in the corresponding .yml files.
