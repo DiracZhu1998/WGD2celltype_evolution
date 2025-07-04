@@ -1,3 +1,5 @@
+# Please refer to the below commands and scripts to generate a ranking of genes/TFs for each cell type family in individual species.
+
 # for cell type specific TFs
 nohup python find_minimum_combinations_of_TFs.py /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Pmar.wb.iter_cluster_annotated.h5ad  "Refined family" /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/3.nsforest/Pmar/ Pmar.TFs /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/07.species_signals/6.TF_vs_species_signals/TFs/Pmar.predicted_TFs.txt &
 nohup python find_minimum_combinations_of_TFs.py /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Pvit.wb.iter_cluster_annotated.h5ad  "Refined family" /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/3.nsforest/Pvit/ Pvit.TFs /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/07.species_signals/6.TF_vs_species_signals/TFs/Pvit.predicted_TFs.txt &

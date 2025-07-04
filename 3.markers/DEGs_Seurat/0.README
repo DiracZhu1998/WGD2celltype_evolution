@@ -1,3 +1,5 @@
+# please refer to below commands and scripts to generate marker lists
+
 #nohup /home/zoo/ball6395/software/miniconda3/envs/sc/bin/Rscript FindMarkers.R -I  /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Pmar.wb.iter_cluster_annotated.rds -L "Refined family" -O ../Pmar &
 nohup /home/zoo/ball6395/software/miniconda3/envs/sc/bin/Rscript FindMarkers.R -I  /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Pmar.wb.iter_cluster_annotated.rds -L "Refined subtype" -O ../Pmar.subtype &
 
