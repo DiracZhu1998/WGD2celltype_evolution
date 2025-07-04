@@ -1,3 +1,4 @@
+# Here is the instruction for using iterative clustering
 # for lamprey
 nohup Rscript Run.iterative_clustering.R /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/2.Seurat/Pmar.wb.rds NA Pmar > Pmar.nohup 2>&1 &
 nohup Rscript plot_iterative_clustering.R -I Pmar.RData -S Pmar/Pmar -M /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/03.markers/Pmar/Pmar.major.wilcox.FDR001.txt -G Pmar/Pmar.gene_for_plotting -L count_mean -W mean >> Pmar.nohup 2>&1 &

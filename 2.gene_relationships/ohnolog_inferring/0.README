@@ -1,0 +1,4 @@
+# Please refer to https://github.com/SinghLabUCSF/Ohnologs-v2.0 (Singh 2019) for detailed pipeline.
+# Please contact corresponding authors if you want to our working directory due to space limitation.
+# Phylogenetic weighting used in Ohnolog-v2 pipeline was calculated by calculate_phylogenetic_weighting.ipynb
+# the results are shown as *.ohnologs.txt

@@ -1,7 +1,8 @@
 
-# based on iterative annotation, annotation => tree at individual atlas => do SAMap => check mapping => refine annotation => next iteration
-# use SAMapxx.py to do SAMap
+# This is an iterative process:
+# annotation based on iterative clustering => get tree for each individual atlas => perform SAMap => check mapping => refine annotation => next iteration
+# use SAMap_run.py to perform SAMap
 # the Refined annotation folder contains annotation based on manual annotation
 # using extract_important_information.v2.py to extract integrated UMAP, mapping scores, and save the final pkl file
 
-# please contact corresponding authors for SAMap objects, including vertebrate_neurons.pkl and vertebrate_non_neurons.pkl 
+# please contact corresponding authors for SAMap objects, including vertebrate_neurons.pkl and vertebrate_non_neurons.pkl due to limited GitHub and Figshare space

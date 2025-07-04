@@ -5,5 +5,5 @@ for i in *h5ad ; do echo nohup Rscript s2.convert_scanpy_to_seurat.R  -I $i -O $
 3). script s3 was used to generate a 1-1-1 ortholog amniotes atlas or 1-1-1-1 ortholog veterbrate atlas
 4). script s4 was used to generate meta-gene (orthogroup level) seurat object for amniotes and vertebrates
 
-Due to space limitation, I uploaded final atlases to Figshare:
-10.6084/m9.figshare.29327111
+Due to space limitation, I uploaded final atlases to Figshare (DOI: 10.6084/m9.figshare.29327111),
+Private link: https://figshare.com/s/f36a822f5905a44aff38
