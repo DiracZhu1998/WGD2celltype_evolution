@@ -6,3 +6,6 @@ The enviroment files (including installation methods, versions, and dependencies
 
 
 All instructions are provided in the Methods section of the paper, as well as in the README files located in each subdirectory alongside the relevant scripts.
+
+
+Typical install time on a "normal" desktop compute and Demo is not suitable since this respirotory is not a software
