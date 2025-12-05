@@ -12,7 +12,7 @@ set.seed(42)
 
 obj <- readRDS(args$input)
 #obj <- SCTransform(object = obj, verbose = FALSE, return.only.var.genes = FALSE)
-# let's try SAM normalisation value first
+# Go with SAM normalisation value
 sampled_df <- obj@meta.data
 sampled_df$cellname <- rownames(sampled_df)
 sampled_df <- sampled_df %>% group_by(args$label) %>% slice_sample(n = 3000) %>% ungroup()
