@@ -1,0 +1,5 @@
+For the amphioxus brain and neural tube atlases, as described in the Methods, 
+we used Seurat FindClusters function rather than SAM with iterative clustering because of the limited number of cells in datasets.
+Please find scripts of QC, integration and clustering at 7.final_Bflo:
+1). step1.cellQC.R
+2). step2.harmony.R

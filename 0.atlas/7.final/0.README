@@ -7,3 +7,8 @@ for i in *h5ad ; do echo nohup Rscript s2.convert_scanpy_to_seurat.R  -I $i -O $
 
 Due to space limitation, I uploaded final atlases to Figshare (DOI: 10.6084/m9.figshare.29327111),
 Private link: https://figshare.com/s/f36a822f5905a44aff38
+
+
+For the amphioxus brain and neural tube atlases, as described in the Methods, 
+we used Seurat FindClusters function rather than SAM with iterative clustering because of the limited number of cells in datasets.
+Please find scripts of QC, integration, and clustering at 7.final_Bflo
