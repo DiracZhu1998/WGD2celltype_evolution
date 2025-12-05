@@ -1,6 +1,6 @@
 # Please refer to https://github.com/SinghLabUCSF/Ohnologs-v2.0 (Singh 2019) for detailed pipeline.
+# The phylogenetic weighting step used in the Ohnologs-v2 pipeline was originally performed using the notebook calculate_phylogenetic_weighting.ipynb, which is no longer included here because we no longer use it. Since the phylogenetic weighting script is not provided in their GitHub repository, we implemented our own version based on the descriptions in Singh (2019). Our implementation reproduces the expected results with only minor differences.
+# In the most recent iteration of our ohnolog analysis, we no longer compute phylogenetic weighting ourselves; instead, we use the phylogenetic weighting scores provided in their GitHub repository.
+# Final results are output as files with the extension *.ohnologs.txt.
 
-# Phylogenetic weighting used in Ohnolog-v2 pipeline was calculated by calculate_phylogenetic_weighting.ipynb
-# Phylogenetic weighting script is not included in their github so we generated one based on their description, it works fine with small differences
-# For the latest version of ohnologue analysis, we didn't calculate phylogenetic weighting anymore but using phylogenetic weighting scores in their github
-# the final results are shown as *.ohnologs.txt
+# For compelete folder of ohnologue detection, please refer to figshare due to space limitation
