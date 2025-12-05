@@ -25,10 +25,14 @@ if (!dir.exists(args$out)) {
 
 ########## non-Ohnolog Paralogs #############
 bg <- read.table(args$input, header = F)$V1
+bg <- gsub('_','-',bg)
 
 # read paralog file
 paralogs <- read.delim(args$paralog, header = T)
 colnames(paralogs) <- c("Dup1", "Dup2")
+paralogs$Dup1 <-  gsub('_','-', paralogs$Dup1)
+paralogs$Dup2 <-  gsub('_','-', paralogs$Dup2)
+
 g <- graph_from_data_frame(paralogs[,c(1,2)], directed = FALSE)
 components <- clusters(g)$membership
 paralog_pairs <- split(names(components), components)

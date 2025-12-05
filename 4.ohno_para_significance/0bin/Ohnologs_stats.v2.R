@@ -24,8 +24,11 @@ if (!dir.exists(args$out)) {
 
 ########## Ohnologs #############
 bg <- read.table(args$input, header = F)$V1
+bg <- gsub('_', '-', bg)
 # read paralog file
 ohnologs <- read.delim(args$ohnolog, header = T)
+ohnologs$Ohno1 <- gsub('_', '-', ohnologs$Ohno1)
+ohnologs$Ohno2 <- gsub('_', '-', ohnologs$Ohno2)
 ### get family level ohnologs ###
 g <- graph_from_data_frame(ohnologs[,1:2], directed = FALSE)
 components <- clusters(g)$membership

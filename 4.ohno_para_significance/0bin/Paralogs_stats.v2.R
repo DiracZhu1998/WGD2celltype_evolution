@@ -24,8 +24,11 @@ if (!dir.exists(args$out)) {
 
 ########## Paralogs #############
 bg <- read.table(args$input, header = F)$V1
+bg <- gsub('_', '-', bg)
 # read paralog file
 paralogs <- read.table(args$paralog, header = T)
+paralogs$Dup1 <- gsub('_', '-', paralogs$Dup1)
+paralogs$Dup2 <- gsub('_', '-', paralogs$Dup2)
 ###### ID conversion ###########
 
 # get family level paralogs
