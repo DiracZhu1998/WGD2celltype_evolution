@@ -1,0 +1,19 @@
+# get exp and pct pseudobulk matrix
+nohup Rscript s1.get_matrix.R -I /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Mmus.wb.iter_cluster_annotated.rds -L Mmus -R Tissue -T Mmus.location.table  &
+nohup Rscript s1.get_matrix.R -I /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Hsap.wb.iter_cluster_annotated.rds -L Hsap -R Tissue2 -T Hsap.location.table  &
+nohup Rscript s1.get_matrix.R -I /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Pvit.wb.iter_cluster_annotated.rds -L Pvit -R Region -T Pvit.location.table  &
+nohup Rscript s1.get_matrix.R -I /mnt/data01/yuanzhen/01.Vertebrate_cell_evo/01.data/02.atlas_final/2.samap/4.final/Pmar.wb.iter_cluster_annotated.rds -L Pmar -R Tissue2 -T Pmar.location.table  &
+
+# perform LMM
+nohup Rscript s2.LMM.R -I Hsap.DEseq2.txt -L Hsap &
+nohup Rscript s2.LMM.R -I Mmus.DEseq2.txt -L Mmus &
+nohup Rscript s2.LMM.R -I Pvit.DEseq2.txt -L Pvit &
+nohup Rscript s2.LMM.R -I Pmar.DEseq2.txt -L Pmar &
+
+
+
+# get markers for AST, GABA, and Glut, comparsion within each type across different regions for each species
+nohup Rscript s3.marker.R -I Hsap.subsetted.rds -O markers/Hsap.subsetted &
+nohup Rscript s3.marker.R -I Mmus.subsetted.rds -O markers/Mmus.subsetted &
+nohup Rscript s3.marker.R -I Pmar.subsetted.rds -O markers/Pmar.subsetted &
+nohup Rscript s3.marker.R -I Pvit.subsetted.rds -O markers/Pvit.subsetted &
