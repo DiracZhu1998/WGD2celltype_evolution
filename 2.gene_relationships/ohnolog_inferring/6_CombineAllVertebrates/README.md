@@ -1,4 +1,4 @@
-## Combine all vertebrates (please be aware this is a copy from ohnologue-v2.0 pipeline from Singh and Isambert, 2019)
+## Combine all vertebrates (please be aware this is just a copy from ohnologue-v2.0 pipeline from Singh and Isambert, 2019)
 
 > Here, we combine ohnologs from all vertebrates by taking a **phylogenetically biased q-score** average. 
 
