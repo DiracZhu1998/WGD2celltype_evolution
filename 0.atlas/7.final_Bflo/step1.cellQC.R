@@ -3,7 +3,7 @@
 ##
 ## Script name:  
 ##
-## Purpose of script: filter low quality cell and generate report graph and statistics
+## Purpose of script: filter low quality cells and generate report graph and statistics
 ##
 ## Author: Yuanzhen Zhu
 ##

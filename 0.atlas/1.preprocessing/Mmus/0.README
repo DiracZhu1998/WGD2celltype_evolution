@@ -24,17 +24,17 @@ MBd MidbrainDorsal  Y
 MBv MidbrainVentral Y
 Medulla Medulla Y
 OB  Olfactory   Y
-Pons    Pons    N (in my old version, Y)
+Pons    Pons    N
 SC  SpinalCord  N
 SScortex    Cortex2 Y
 StriatDor   StriatumDorsal  Y
 StriatVent  StriatumVentral Y
-Sympath Sympathetic N (in my old version, Y)
+Sympath Sympathetic N
 Thal    Thalamus    Y
 
-# only protein coding genes were retained
-# pay attention, some gene names are slightly different from in Ensembl-gene name table, modified them
-generate matrix for Seurat construction
+# Only protein coding genes were retained
+# Pay attention, some gene names are slightly different from in Ensembl-gene name table, I modified them
+and generated matrix for Seurat construction
 
 gzip matrix_files/*
 

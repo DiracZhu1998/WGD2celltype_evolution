@@ -1,2 +1,2 @@
 Pvit neurons in paper were not simply based on clusters; Low quality cells were removed; I used cluster labels of Fig1B in their paper (Hain, et al, 2022) to annotate Neurons.
-Lamprey sample ~ donor relatonships were not included into their Seurat objects. I added this information to atlas based on their Supp. Table (Lamanna, 2023).
+Lamprey sample ~ donor relationships were not included in their Seurat objects. I added this information to the atlas based on their Supp. Table (Lamanna, 2023).

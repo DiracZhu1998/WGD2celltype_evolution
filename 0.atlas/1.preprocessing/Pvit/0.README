@@ -1,7 +1,7 @@
 Data was requested and downloaded from below:
 https://datashare.mpcdf.mpg.de/s/WBX59YhJKKebizb#editor
 
-only protein coding genes were retained.
-downsampled to 100k neurons and 100k non-neurons.
-added annotations csv file and corresponding neurons annotation
+Only protein coding genes were retained.
+I downsampled datasets to 100k neurons and 100k non-neurons.
+I addded annotation csv file and corresponding neurons annotation to atlas
 as for glia, use DimPlot and Fig. 1B to get main cell types.

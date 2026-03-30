@@ -11,11 +11,9 @@ human_adult_GRCh38-3.0.0.loom
 human_adult-GRCh38-3.0.0.h5ad (Annotations basically follow CELLxGENE standards.)
 
 ####### subset data ######
-Due to slow of view function in loompy, I chose to use h5ad format for subsetting data and convert it to seurat object by python script
+Because the view function in Loompy is slow, I chose to subset the data using the H5AD format and then convert it into a Seurat object using a Python script.
+Dissection location spinal cord SpC was excluded to retain only brain cells
+Only protein coding genes were included
+Retain cells containing more than 400 transcripts (nCounts > 400)
 
-dissection location spinal cord SpC was excluded
-only protein coding genes were included
-retain cells containing more than 400 transcripts (nCounts > 400)
-
-add supercluster annotation (Supp. Table 3 in human paper) and downsample 100k neurons and 100k non-neurons with seed 42
-
+Add supercluster annotation (Supp. Table 3 in human paper) and downsample 100k neurons and 100k non-neurons with seed 42
